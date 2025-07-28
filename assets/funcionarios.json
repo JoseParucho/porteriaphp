@@ -1,0 +1,185 @@
+[
+  { "codigo": "f1", 
+    "rut": "17213229-4",
+    "nombre": "ALVARADO ALVARADO LINCOYAN ANDRES",
+    "tipo": "DOCENTE",
+   "patente": "" 
+  },
+
+  { "codigo": "f2", "rut": "19553881-6", "nombre": "ALVAREZ VASQUEZ MARISOL ELIANA", "tipo": "DOCENTE", "patente": "" },
+
+  { "codigo": "f3", "rut": "19779959-5", "nombre": "ARAYA LOBOS CECILIA ISIDORA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f4", "rut": "10249438-5", "nombre": "BENDIX GIRARD CECILIA LORENA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f5", "rut": "17996971-8", "nombre": "CASTILLO LONCOCHINO JOSE ALEJANDRO", "tipo": "DOCENTE", "patente": "HZ-BZ-14" },
+ 
+  { "codigo": "f6", "rut": "19861728-8", "nombre": "DIAZ HERNANDEZ RODRIGO NICOLAS", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f7", "rut": "16929651-0", "nombre": "ESPINOZA ALVARADO  MERCEDES LUGARDI", "tipo": "DOCENTE", "patente": "RJ-DF-70" },
+ 
+  { "codigo": "f8", "rut": "17659428-4", "nombre": "FLORES GONZALEZ MAURICIO EDUARDO", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f9", "rut": "17659396-2", "nombre": "FROHLICH CHACON  JOSELEN ESCARLEHT", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f10", "rut": "16781987-7", "nombre": "GAMBOA SOTO MARTA RAFAELA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f11", "rut": "12752242-1", "nombre": "GÓMEZ DÍAZ GLORIA CAROLA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f12", "rut": "17606841-8", "nombre": "GOMEZ RIQUELME BERNARDO JOSE", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f13", "rut": "18988608-K", "nombre": "GUERRERO ARENAS CARLOS ANTONIO", "tipo": "DOCENTE", "patente": "JZ-ZK-22" },
+ 
+  { "codigo": "f14", "rut": "7128885-4", "nombre": "GUTIERREZ MONCADA  KARINA SILVANA", "tipo": "DOCENTE", "patente": "HF-RV-12" },
+ 
+  { "codigo": "f15", "rut": "19934274-6", "nombre": "JIMENEZ TORRES RODRIGO ERNALDO", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f16", "rut": "19535905-9", "nombre": "LOBO OYARZUN VALENTINA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f17", "rut": "19593866-0", "nombre": "LOPEZ FUENTEALBA ARACELLY", "tipo": "DOCENTE", "patente": "FZ-HY-49" },
+ 
+  { "codigo": "f18", "rut": "14088981-4", "nombre": "MALDONADO MUÑOZ ORLANDO", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f19", "rut": "16343880-1", "nombre": "MANQUI HERNANDEZ  FRANCISCO SEBASTIAN", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f20", "rut": "16343888-7", "nombre": "MORALES VARGAS  CRISTOBAL SEBASTIAN", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f21", "rut": "19227755-8", "nombre": "MUÑOZ VIVANCO MICHELLE ESTEPHANIA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f22", "rut": "19983438-K", "nombre": "OPAZO REYES BASTHIAN JESUS", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f23", "rut": "17124722-5", "nombre": "OPORTO VELASQUEZ LUZMARINA ALEJANDRA", "tipo": "DOCENTE", "patente": "RT-TD-51" },
+ 
+  { "codigo": "f24", "rut": "17197261-2", "nombre": "PACHECO PACHECO  FELIPE GONZALO", "tipo": "DOCENTE", "patente": "JG-RJ-58" },
+ 
+  { "codigo": "f25", "rut": "19535233-K", "nombre": "PEREZ CÁRCAMO MATÍAS ANDRÉS", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f26", "rut": "20493437-1", "nombre": "PONCE AGUILAR YAMILETH PRISCILA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f27", "rut": "19086053-1", "nombre": "REYES GUZMAN CRISTOBAL FERNANDO", "tipo": "DOCENTE", "patente": "TL-HV-67" },
+ 
+  { "codigo": "f28", "rut": "15294327-K", "nombre": "RIFFO  VEGA OSCAR ALEXIS", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f29", "rut": "18490789-5", "nombre": "SALDIVIA FLORES CRISTINA ALEJANDRA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f30", "rut": "16585003-3", "nombre": "SAN MARTIN GONZALEZ CARLOS ROBINSON", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f31", "rut": "17501519-1", "nombre": "SEPULVEDA  PACHECO VANESSA NATALIA", "tipo": "DOCENTE", "patente": "TR-FT-70" },
+ 
+  { "codigo": "f32", "rut": "19640506-2", "nombre": "URIBE RUBILAR ESTEFANIA", "tipo": "DOCENTE", "patente": "" },
+ 
+  { "codigo": "f33", "rut": "19195889-6", "nombre": "VERA JARA ISABEL INES TERESA", "tipo": "DOCENTE", "patente": "KX-RY-99" },
+ 
+  { "codigo": "f34", "rut": "11428292-8", "nombre": "BARRIA BALCAZA  MONICA VIOLETA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f35", "rut": "11922851-4", "nombre": "BARRIENTOS ROSAS BETSY MARGOTH", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f36", "rut": "17888148-5", "nombre": "BARRIENTOS JARAMILLO  ESTEBAN NICOLAS LAUTARO", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f37", "rut": "17219687-K", "nombre": "CIFUENTES VEGA  NOELIA ANGELICA", "tipo": "ASIST EDUCACION", "patente": "FC-CF-40" },
+ 
+  { "codigo": "f38", "rut": "12341063-7", "nombre": "FERNANDEZ ALBARRACIN  MAGALI JEANETTE", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f39", "rut": "15273807-2", "nombre": "FUENTES MATTHEY  PAOLA ANDREA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f40", "rut": "19862339-3", "nombre": "FIGUEROA TORRES PATRICIA YANETTE", "tipo": "ASIST EDUCACION", "patente": "DW-CP-17" },
+ 
+  { "codigo": "f41", "rut": "19270248-8", "nombre": "GUAJARDO RAMIREZ SEBASTIAN ANDRES", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f42", "rut": "11308717-k", "nombre": "HUENCHUL HERNANDEZ BLANCA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f43", "rut": "18872149-4", "nombre": "MONSALVE TRUJILLO JOAQUÍN", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f44", "rut": "18196146-5", "nombre": "PADILLA DIAZ CATHERINE VALERIA", "tipo": "ASIST EDUCACION", "patente": "RZ-HB-91" },
+ 
+  { "codigo": "f45", "rut": "13400128-3", "nombre": "POZAS CONTRERAS  CRISTIAN MAURICIO", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f46", "rut": "14045135-5", "nombre": "SEPULVEDA MAULEN PADDY GEORGE ARTHUR", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f47", "rut": "12592414-K", "nombre": "TOLEDO AGUILAR CRISTIAN", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f48", "rut": "12341009-2", "nombre": "ZUÑIGA CARAVANTE  MARCELA ALEJANDRA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f49", "rut": "16923686-0", "nombre": "ALVAREZ PAREDES KARLA STEPHANIE", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f50", "rut": "16343155-6", "nombre": "ASTUDILLO OJEDA JOSÉ", "tipo": "ASIST EDUCACION", "patente": "HG-SK-77" },
+ 
+  { "codigo": "f51", "rut": "13045811-4", "nombre": "DIAZ QUEULO  ADELA SORAYA", "tipo": "ASIST EDUCACION", "patente": "KY-FJ-99" },
+ 
+  { "codigo": "f52", "rut": "16337858-2", "nombre": "MUÑOZ GODOY DANIELA NATALI", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f53", "rut": "12997470-2", "nombre": "OPORTO OPORTO  ADRIAN ALEJANDRO", "tipo": "ASIST EDUCACION", "patente": "VX-26-16" },
+ 
+  { "codigo": "f54", "rut": "12340934-5", "nombre": "OPORTO OPORTO DORIS MARISA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f55", "rut": "11594962-4", "nombre": "PALMA MOLINA JUAN CARLOS", "tipo": "ASIST EDUCACION", "patente": "RP-HK-97" },
+ 
+  { "codigo": "f56", "rut": "15276990-3", "nombre": "REYES FUENTES CARMEN GLORIA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f57", "rut": "12525202-8", "nombre": "VALENZUELA VELASQUEZ SERGIO", "tipo": "ASIST EDUCACION", "patente": "FS-JF-29" },
+ 
+  { "codigo": "f58", "rut": "18963529-K", "nombre": "SOBARZO CORONADO JOVINO ANDRES", "tipo": "ASIST EDUCACION", "patente": "PK-RP-63" },
+ 
+  { "codigo": "f59", "rut": "8083218-4", "nombre": "VIDAL SIEDLER  ARNOLDO GUIDO", "tipo": "ASIST EDUCACION", "patente": "PZ-BH-50" },
+ 
+  { "codigo": "f60", "rut": "18215216-1", "nombre": "AGUILERA POBLETE CARLA ESTEFANÍA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f61", "rut": "11924880-9", "nombre": "ALVAREZ SILVA RENE ORLANDO", "tipo": "ASIST EDUCACION", "patente": "PH-DB-54" },
+ 
+  { "codigo": "f62", "rut": "12101640-0", "nombre": "BAHAMONDE AGUILA  MIREYA DEL CARMEN", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f63", "rut": "18470218-5", "nombre": "BARRIA  MUÑOZ SILVANA MAKARENA", "tipo": "ASIST EDUCACION", "patente": "" },
+
+  { "codigo": "f64", "rut": "12123134-4", "nombre": "BUSTAMANTE RIVERO WANDA ESTER", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f65", "rut": "14040234-6", "nombre": "GODOY MARCOS  VICTOR ALEJANDRO", "tipo": "ASIST EDUCACION", "patente": "VK-85-27" },
+ 
+  { "codigo": "f66", "rut": "13164750-6", "nombre": "HIDALGO HIDALGO  RIGOBERTO OBLICES", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f67", "rut": "11429607-4", "nombre": "MARCOS SANTANA  UBERLINDA ISABETH", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f68", "rut": "11597223-5", "nombre": "OPORTO OPORTO MARCIA ELENA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f69", "rut": "12341075-0", "nombre": "QUEULO OJEDA  ANA DEL CARMEN", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f70", "rut": "15896640-9", "nombre": "RELMA PRIETO  CLAUDIA BEATRIZ", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f71", "rut": "12632941-5", "nombre": "RODRIGUEZ GALLARDO CHRISTIAN IVAN", "tipo": "ASIST EDUCACION", "patente": "RH-YH-29" },
+ 
+  { "codigo": "f72", "rut": "14605135-9", "nombre": "ROSALES ALVARADO  KARÍN PRISCILA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f73", "rut": "10375142-K", "nombre": "TORRES AGUILAR BEATRIZ DE LOURDES", "tipo": "ASIST EDUCACION", "patente": "DY-DZ-82" },
+ 
+  { "codigo": "f74", "rut": "9075660-5", "nombre": "TORRES CARCAMO  BERNARDITA DE LOURDES", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f75", "rut": "12594708-5", "nombre": "CATALAN LAGOS PAOLA ANDREA", "tipo": "ASIST EDUCACION", "patente": "KR-HL-24" },
+ 
+  { "codigo": "f76", "rut": "18963363-7", "nombre": "CARDENAS PONCE TATIANA ANDREA", "tipo": "ASIST EDUCACION", "patente": "LF-CZ-13" },
+ 
+  { "codigo": "f77", "rut": "20233114-9", "nombre": "LOAIZA CALABRANO LAURA", "tipo": "ASIST EDUCACION", "patente": "HZ-XH-65" },
+ 
+  { "codigo": "f78", "rut": "20657375-9", "nombre": "PETTET CARRASCO CRISTIAN", "tipo": "ASIST EDUCACION", "patente": "FZ-HY-49" },
+ 
+  { "codigo": "f79", "rut": "19640475-9", "nombre": "RAMIREZ ARRIAGADA RICARDO", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f80", "rut": "22330844-9", "nombre": "MILLAQUIPAY BARRIA CAROL VALENTINA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f81", "rut": "19862208-7", "nombre": "ELGUETA RICOUZ SEBASTIAN NICOLAS", "tipo": "ASIST EDUCACION", "patente": "FW-PY-76" },
+ 
+  { "codigo": "f82", "rut": "11596327-9", "nombre": "REYES FUENTES HELGA JEANETTE", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f83", "rut": "19269420-5", "nombre": "CASTILLO MONTENCINOS CAMILO LEANDRO", "tipo": "ASIST EDUCACION", "patente": "CW-ZF-50" },
+ 
+  { "codigo": "f84", "rut": "19537654-9", "nombre": "KARLA ESTEFANIA TORRES VELASQUEZ", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f85", "rut": "17741857-9", "nombre": "MARIELA ALEJANDRA ROA OYARZUN", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f86", "rut": "19270398-0", "nombre": "JOEL LUIS MARTÍNEZ SALDIVIA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f87", "rut": "20098239-8", "nombre": "CAROLINA ALEXANDRA BAÑARES BARRÍA", "tipo": "ASIST EDUCACION", "patente": "" },
+ 
+  { "codigo": "f88", "rut": "19038971-5", "nombre": "CAMILA FERNANDA OYARZO CARRILLO", "tipo": "ASIST EDUCACION", "patente": "" },
+
+  { "codigo": "i1", "rut": "28426583-4", "nombre": "PARUCHO MUJICA JOSE ANTONIO", "tipo": "PRACTICANTE INFORMATICA", "patente": "" }
+]
+

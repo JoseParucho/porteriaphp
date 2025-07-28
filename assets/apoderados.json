@@ -1,0 +1,3406 @@
+[
+  {
+    "nombreApoderado": "Ariela Andrea Rios Salgado",
+    "rutApoderado": "15895055-3",
+    "nombreAlumno": "Acuña Rios, Thiare Pascal",
+    "curso": "1ºA",
+    "Modalidad": "Externo"
+  },
+  {
+    "nombreApoderado": "Pamela Melo Maricoy",
+    "rutApoderado": "17198080-1",
+    "nombreAlumno": "Aguila Melo, Arely Agustina",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Paulina Diaz Del Rio",
+    "rutApoderado": "15276349-2",
+    "nombreAlumno": "Alvarez Díaz, Yeremy Yasir",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Solange Vergara Rodriguez",
+    "rutApoderado": "13246839-7",
+    "nombreAlumno": "Andrade Vergara, Vicente Nicolás",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Sandra Barria Mayerovich",
+    "rutApoderado": "15874291-8",
+    "nombreAlumno": "Angulo Barría, Cristóbal Eberardo",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Astudillo Ojeda, Jose Benedicto",
+    "rutApoderado": "16343155-6",
+    "nombreAlumno": "Astudillo Aros, Fernanda Antonia",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Lorena Cornejo Arellano",
+    "rutApoderado": "10612284-9",
+    "nombreAlumno": "Barría Cornejo Javiera Ignacia",
+    "curso": "1ºA",
+    "Modalidad": "Externo"
+  },
+  {
+    "nombreApoderado": "Veronica Silva Monsalve",
+    "rutApoderado": "13590524-0",
+    "nombreAlumno": "Bastidas Silva, Daniela Monserrat",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Luz Bustamant Reyes",
+    "rutApoderado": "12592186-8",
+    "nombreAlumno": "Caipichun Bustamante, Yuliana Hacened",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Yasna Marquez Barriga",
+    "rutApoderado": "16964088-2",
+    "nombreAlumno": "Carrillo Marquez, Alexis Gabriel",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Laura Soto Silva",
+    "rutApoderado": "17357141-0",
+    "nombreAlumno": "Cátalan Soto, Constanza Belen",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Juan Andrés Chavez Chavez",
+    "rutApoderado": "13821844-9",
+    "nombreAlumno": "Chávez Mansilla, Karla Isabel",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ruth Morales Vera",
+    "rutApoderado": "14039176-k",
+    "nombreAlumno": "Cisternas Morales, Nicolas Ezequiel",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Regina Carrilo Trujillo",
+    "rutApoderado": "11923548-0",
+    "nombreAlumno": "Cofre Carrillo, Regina Estefania",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Lady Mellado Garcia",
+    "rutApoderado": "16112069-3",
+    "nombreAlumno": "Díaz Mellado, Gabriel Humberto",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Lady Mellado Garcia",
+    "rutApoderado": "16112069-3",
+    "nombreAlumno": "Díaz Mellado, Javier Alejandro",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Sandra Ojeda Ojeda",
+    "rutApoderado": "15496342-1",
+    "nombreAlumno": "Duhalde Ojeda, Gabriel Antonio",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Tabita Allendes Carrillo",
+    "rutApoderado": "17531596-4",
+    "nombreAlumno": "Espinoza Allendes, Joaquin Adrian",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Vanesa Yaeger Yaeger",
+    "rutApoderado": "15952587-2",
+    "nombreAlumno": "Flores Yaeger, Benjamin Bastian",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ariana Wiederhold Guzman",
+    "rutApoderado": "15297456-6",
+    "nombreAlumno": "Gallardo Wiederhold, Benjamin Alonso",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Martha Lucia Venivelso",
+    "rutApoderado": "200081080-3",
+    "nombreAlumno": "Garcia Venivelso, Mirian Sofia",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Alejandro Gomez Molina",
+    "rutApoderado": "15274307-6",
+    "nombreAlumno": "Gómez Ojeda, Martina Florencia",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Maria Lorena Schmolz Catrilef",
+    "rutApoderado": "12202089-4",
+    "nombreAlumno": "Gómez Schmolz, Rodrigo Hector Cesar",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Pamela Fuenzalida Gonzalez",
+    "rutApoderado": "16604435-9",
+    "nombreAlumno": "Guaitiao Fuenzalida, Javiera Constanza",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ana Marquez Santana",
+    "rutApoderado": "11805369-9",
+    "nombreAlumno": "Gualaman Marquez, Hernan Horacio",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Maria Martinez Reyes",
+    "rutApoderado": "16832436-7",
+    "nombreAlumno": "Huadal Martinez, Amaya Valentina",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Yasna Reyes Santana",
+    "rutApoderado": "16344683-9",
+    "nombreAlumno": "Huenchul Reyes, Santiago Tomas",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Juana Llancamán Ancapán",
+    "rutApoderado": "15528734-9",
+    "nombreAlumno": "Lemuy Llancamán, Consuelo Esperanza",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Juana Chavez Bañares",
+    "rutApoderado": "14038698-7",
+    "nombreAlumno": "Miranda Chávez, Martina Ignacia",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Claudia Ruiz Melihuechun",
+    "rutApoderado": "17649638-k",
+    "nombreAlumno": "Molina Ruiz, Antonella Amaral",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Deisin Rivera Campos",
+    "rutApoderado": "16541101-3",
+    "nombreAlumno": "Ojeda Campos, Yulianna Monserrat",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ingrid Coronado Duran",
+    "rutApoderado": "14085514-6",
+    "nombreAlumno": "Perez Coronado, Valentina Estefania",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Juan Carlos Reinoso Reyes",
+    "rutApoderado": "22694758-2",
+    "nombreAlumno": "Reinoso Zapata, Victoria Stephania",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Carolyn Barria Fuentealba",
+    "rutApoderado": "12997480-k",
+    "nombreAlumno": "Rosas Barria, Sofia Florencia",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Aroldo Saldivia Azocar",
+    "rutApoderado": "12755459-5",
+    "nombreAlumno": "Saldivia Villanueva, Rafael Eduardo",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Juana Andrade Ascencio",
+    "rutApoderado": "10061618-1",
+    "nombreAlumno": "Segovia Villarroel, Lisandra Yanira Noemí",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Sofia Millaquipai Rios",
+    "rutApoderado": "15270358-9",
+    "nombreAlumno": "Silva Millaquipai, Simón Denzel Israel",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Cintia Guentén Guentén",
+    "rutApoderado": "16832178-3",
+    "nombreAlumno": "Triviño Guenten, Paz Stefania",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Gualaman Del Rio, Horacio Hernán",
+    "rutApoderado": "13823321-9",
+    "nombreAlumno": "Vasquez Fuentealba, Madelin Del Pilar",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Daniela Cheuquian Neipan",
+    "rutApoderado": "18962815-3",
+    "nombreAlumno": "Yaeger Cheuquián, Monserrat, Emilia",
+    "curso": "1ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Carlos Ariel Zuñiga Vargas",
+    "rutApoderado": "13735668-6",
+    "nombreAlumno": "Zuñiga Garrido, Josefina Del Pilar",
+    "curso": "1ºA",
+    "Modalidad" : "Externo"
+  },
+
+
+  
+  {
+    "nombreApoderado": "DÍAZ DEL RÍO, PAULINA",
+    "rutApoderado": "15276349-2",
+    "nombreAlumno": "Alvarez Díaz, Darylis Anais",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ÁNGULO Elgueta, Gary Jonathan",
+    "rutApoderado": "16780849-2",
+    "nombreAlumno": "Ángulo Monsalve, Thiago Tahiel",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Eliana Morales Hernández",
+    "rutApoderado": "7007820-1",
+    "nombreAlumno": "Baima Lobos, Sebastián Reimundo",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Adriana Villanueva Valderas",
+    "rutApoderado": "15882603-8",
+    "nombreAlumno": "Barria Villanueva, Danae Ayelen",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "LLANCAR GUAJARDO, MARUJA DEL CARMEN",
+    "rutApoderado": "11924706-3",
+    "nombreAlumno": "Barrientos Llancar, Cristian Alexis",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SILVA MONSALVE, VERÓNICA DEL CARMEN",
+    "rutApoderado": "13590524-0",
+    "nombreAlumno": "Bastidas Silva, Jenifer Antonia",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Lissette Bilche Vera",
+    "rutApoderado": "15896029-k",
+    "nombreAlumno": "Cardenas Bilche, Martina Ignacia",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Jacqueline Mansilla Moreira",
+    "rutApoderado": "15272331-8",
+    "nombreAlumno": "Cárdenas Mansilla, Jean Claudio",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MENA VILLARROEL , SANDRA VALESKA",
+    "rutApoderado": "15895102-9",
+    "nombreAlumno": "Cartagena Mena, Miguel Angel",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Valerio Huenchullanca, Ana Maria",
+    "rutApoderado": "16344060-1",
+    "nombreAlumno": "Castillo Valerio, Sebastian Ignacio",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CASTRO DIAZ, BRUNILDA ISABEL",
+    "rutApoderado": "11307780-8",
+    "nombreAlumno": "Chavez Chávez, Christopher Hanz",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Macarena Cayuan Lepún",
+    "rutApoderado": "17820423-8",
+    "nombreAlumno": "Cumilef Cayuan, Fernanda Alexandra",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Rosa Dominguez Bastias",
+    "rutApoderado": "14496542-6",
+    "nombreAlumno": "Dominguez Guerrero, Tomas Elias",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "FLORES NEIRA , LUIS HERNÁN",
+    "rutApoderado": "15300442-0",
+    "nombreAlumno": "Flores Llaituqueo, Polett Alexandra",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ARCOS FUENTES , EVALDINA DEL CARMEN",
+    "rutApoderado": "13403923-k",
+    "nombreAlumno": "González Arcos, Alondra Lucía",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "QUIROZ RODRIGUEZ, MARCIA MARIBEL",
+    "rutApoderado": "14322303-5",
+    "nombreAlumno": "Guzman Quiroz, Yasmin Aidelen",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "IMILAN VELASQUEZ, YUYURI JOHANNES",
+    "rutApoderado": "17357989-6",
+    "nombreAlumno": "Imilan Morales, Yuyuri Vicente",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Lynda Apablaza Romero",
+    "rutApoderado": "17121029-1",
+    "nombreAlumno": "Lara Apablaza, Gohan Frank",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "RICOUZ SILVA, VIVIANA ALEJANDRA",
+    "rutApoderado": "16111337-9",
+    "nombreAlumno": "Lopez Ricouz, Matías Ignacio Nelson Ernesto",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Alejandra Castillo Castillo",
+    "rutApoderado": "13823796-6",
+    "nombreAlumno": "Mansilla Castillo, Rocío Yasmin",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GUTIERREZ , PAULA JULIANA",
+    "rutApoderado": "200094336-6",
+    "nombreAlumno": "Montecino Gutierrez, Laureano Lorenzo",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Pablo Paredes Quidel",
+    "rutApoderado": "16344221-3",
+    "nombreAlumno": "Paredes Ponce, Isidora Simoney",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SALAZAR GONZÁLEZ, ESTER MAGDALENA",
+    "rutApoderado": "12966083-k",
+    "nombreAlumno": "Pérez Salazar, Rossmery Ignacia",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ESPINOZA ZENTENO, MAXIMILIANO ESTEBAN",
+    "rutApoderado": "15191629-5",
+    "nombreAlumno": "Rios Molina, Bellatrix Evangelina",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Mirta Martinez Veloso",
+    "rutApoderado": "12201982-9",
+    "nombreAlumno": "Riquelme Salgado, Emely Estrella",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Saldivia Azocar, Aroldo Patricio",
+    "rutApoderado": "12755459-5",
+    "nombreAlumno": "Saldivia Roldán, Tomas Ignacio",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SANTANA BARRÍA, MARLIS INÉS",
+    "rutApoderado": "15689363-3",
+    "nombreAlumno": "Salgado Santana, Ailyn Isabel",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Lorena Adams Carcamo",
+    "rutApoderado": "15295218-k",
+    "nombreAlumno": "Sandoval Adams, María Paz",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "RIQUELME MARTINEZ, YOSSELYN ELIANA",
+    "rutApoderado": "17357862-8",
+    "nombreAlumno": "Sandoval Riquelme, Naifery Yadira",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "QUINTUL MELILLANCA, MÓNICA PAOLA",
+    "rutApoderado": "13823403-7",
+    "nombreAlumno": "Silva Quintul, Tania Yegner",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Solis Filun, Patricio Hernan",
+    "rutApoderado": "13404490-K",
+    "nombreAlumno": "Solis Yañez, Deissy Monserrat",
+    "curso": "2ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Cheuquian Aucapán, Maria Elena",
+    "rutApoderado": "12751937-4",
+    "nombreAlumno": "Tringa Cheuquian, Leonardo Denis",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SOLIS RUIZ, CLARA CATALINA",
+    "rutApoderado": "22482383-5",
+    "nombreAlumno": "Uribe Solis, Beatriz Leonor",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "LÓPEZ SILVA, MARGARITA ESILDA",
+    "rutApoderado": "09948989-8",
+    "nombreAlumno": "Vera Naguian, Ana Belén",
+    "curso": "2ºA",
+    "Modalidad" : "Interno"
+  },
+
+
+
+  {
+    "nombreApoderado": "PUÑANCO SÁNCHEZ, DELICIA MAGDALENA",
+    "rutApoderado": "17696977-6",
+    "nombreAlumno": "Álvarez Puñanco, Magdalena Del Carmen",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MUÑOZ RAUQUE, NANCY PAOLA",
+    "rutApoderado": "14404949-7",
+    "nombreAlumno": "Arros Muñoz, Joaquín Manuel",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Zunilda Huequelef Obando",
+    "rutApoderado": "20160778-7",
+    "nombreAlumno": "Asenjo Huequelef, Nicol Fernanda",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Martinez Alvarado, Maritza Lorena",
+    "rutApoderado": "14466988-6",
+    "nombreAlumno": "Barria Martinez, Marcela Isidora",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ARAYA VASQUEZ, JARITZA CRISTINA",
+    "rutApoderado": "20405512-2",
+    "nombreAlumno": "Bravo Araya, Montserrat Belén",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MALIG CATALAN, MARCIA ALEJANDRA",
+    "rutApoderado": "15295087-k",
+    "nombreAlumno": "Calfui Malig, Fernanda Catalina",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MARQUEZ BARRIGA, YASNA ESTELA",
+    "rutApoderado": "16964088-2",
+    "nombreAlumno": "Carrillo Marquez, Javiera Lissbet",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "HUICHAL NUÑEZ, CAROLAYN ANDREA",
+    "rutApoderado": "17532697-9",
+    "nombreAlumno": "Gayes Huichal, Krishna Fernanda",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GUERRERO QUEULO, CESÁR ALBERTO",
+    "rutApoderado": "16344037-7",
+    "nombreAlumno": "Guerrero Ortega, Jireh Victoria",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MUÑOZ MÁRQUEZ, LORENA BEATRIZ",
+    "rutApoderado": "12340914-0",
+    "nombreAlumno": "Hernández Muñoz, Sophia Victoria",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "HUAITUYAO CHIUCA, ANDRES VENEDICTO",
+    "rutApoderado": "13404563-9",
+    "nombreAlumno": "Huaituyao Cuevas, Mariana Paz",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GALLARDO CASAS, YASNA ANDREA",
+    "rutApoderado": "18428005-1",
+    "nombreAlumno": "Huichal Gallardo, Jonny Eduardo",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "HIDALGO OYARZUN, LORETO DEL CARMEN",
+    "rutApoderado": "15496452-5",
+    "nombreAlumno": "Lebiante Hidalgo, Mariana Isabel",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Matus Silva Silva, Inelia",
+    "rutApoderado": "12340804-7",
+    "nombreAlumno": "Lepún Matus, Fermín Ismael",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Valdera Guerrero, Ana María",
+    "rutApoderado": "18369070-1",
+    "nombreAlumno": "Loncoman Valdera, José Miguel",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "OPORTO OPORTO, MARCIA ELENA",
+    "rutApoderado": "11597223-5",
+    "nombreAlumno": "Mancilla Oporto, Anastacia Elena",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MANSILLA OYARZO, MANUEL ENRIQUE",
+    "rutApoderado": "13323953-7",
+    "nombreAlumno": "Mansilla Alvarado, Nicolás Andrés",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SOBARZO MONSALVE, PATRICIA CANDELARIA",
+    "rutApoderado": "13162016-0",
+    "nombreAlumno": "Molina Sobarzo, Florencia Monserrat",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Luz Eliana Currieco Ortíz",
+    "rutApoderado": "11593432-5",
+    "nombreAlumno": "Monsalve Currieco, Maria Jose",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "AROS GALLEGOS , PILAR ANDREA",
+    "rutApoderado": "16111456-1",
+    "nombreAlumno": "Montecinos Aros, Jazmín Nazareth",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Gabriela Rojas Cañulef",
+    "rutApoderado": "12997576-8",
+    "nombreAlumno": "Montes Rojas, Cristóbal Alejandro",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Figueroa Torres, Solange Judith",
+    "rutApoderado": "17358484-9",
+    "nombreAlumno": "Perez Figueroa, Carlos Patricio",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Yosselyn Nuñez Medina",
+    "rutApoderado": "17531655-8",
+    "nombreAlumno": "Pineda Nuñez, Martina Ignacia",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "DEL RIO ORTEGA, ABIGAIL NOEMI",
+    "rutApoderado": "18578790-7",
+    "nombreAlumno": "Ponce Del Rio, Andrea Noemi",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Magali Yaeger Yaeger",
+    "rutApoderado": "18577490-2",
+    "nombreAlumno": "Rosales Yaeger, Yeral Antonio",
+    "curso": "2°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "VIllanueva Gómez, Rosmarin Deidamia",
+    "rutApoderado": "13590552-6",
+    "nombreAlumno": "Saldivia Villanueva, Angela Javiera",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VARGAS BÓRQUEZ, ORIANA DEL CARMEN",
+    "rutApoderado": "11597040-2",
+    "nombreAlumno": "Santibáñez Vargas, Pablo Enrique",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "URRIAGA HIDALGO, PABLO ANDRES",
+    "rutApoderado": "17124994-5",
+    "nombreAlumno": "Urriaga Oporto, Paloma Fernanda",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+
+    
+  },
+{
+    "nombreApoderado": "nn",
+    "rutApoderado": "nn",
+    "nombreAlumno": "SOTO MARTÍNEZ, MAURICIO ALEJANDRO",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+
+
+
+  {
+    "nombreApoderado": "Almonacid Martinez, Priscila",
+    "rutApoderado": "17631190-8",
+    "nombreAlumno": "Aguayo Albrecht, Katalina Isidora",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "AGUILAR CATALÁN, LUIS ALEJANDRO",
+    "rutApoderado": "16338534-1",
+    "nombreAlumno": "Aguilar Carrión, Benjamín Alejandro",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MARTÍNEZ AGUILERA, MARÍA PAMELA",
+    "rutApoderado": "18578942-k",
+    "nombreAlumno": "Alvarado Martínez, Diego Alexis",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+ 
+  {
+    "nombreApoderado": "ARÉVALO MATAMALA, FRANCISCO LUIS",
+    "rutApoderado": "15231187-7",
+    "nombreAlumno": "Arévalo Cid, Romina Solange",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "LIRA ALVARADO, ALEJNADRA NICOLE",
+    "rutApoderado": "17604664-3",
+    "nombreAlumno": "Carrasco Almonacid, Sofía Alejandra Raquel",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ALVAREZ MONJE, ANGELICA SOLEDAD",
+    "rutApoderado": "16695190-9",
+    "nombreAlumno": "Carrasco Arriagada, Mayra Saray",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CATALAN CATALAN, PATRICIO HERNÁN",
+    "rutApoderado": "13164600-3",
+    "nombreAlumno": "Cátalan Soto, Nelia Jaidette",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "LEAL AGUILA, VICTOR ALADIN",
+    "rutApoderado": "15295951-6",
+    "nombreAlumno": "Cheuquián Neipán, Tomás Emiliano",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MONSALVE LEAL, KARINA EDITH",
+    "rutApoderado": "18321453-5",
+    "nombreAlumno": "Curinao Monsalve, Camila Ignacia",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Santibañez Campos, Abel Ricardo",
+    "rutApoderado": "10242222-8",
+    "nombreAlumno": "Flores Neipán, Ayelén Estefanía",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "RIOS HENRIQUEZ, MINERVA SOLEDDAD",
+    "rutApoderado": "15896773-1",
+    "nombreAlumno": "Fontaine Barnert, Máximo Aleksander Andrés",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "HERNANDEZ OLIVA, MARCIA ANDREA",
+    "rutApoderado": "17124979-1",
+    "nombreAlumno": "Fuentes Hernández, Sophia Anthonia",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "NEIPÁN COLIAO, ADRIANA DEL CARMEN",
+    "rutApoderado": "13162335-6",
+    "nombreAlumno": "Gallardo Angulo, Josue Elías",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GOMEZ MOLINA , ALEJANDRO HERNAN",
+    "rutApoderado": "15274307-6",
+    "nombreAlumno": "Gómez Ojeda, Vicente Ignacio",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "NAGUIL NAGUIL, ROBERTO",
+    "rutApoderado": "16263567-0",
+    "nombreAlumno": "Leal Quiñones, Natacha Anahi",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "HIDALGO OYARZUN, LORETO DEL CARMEN",
+    "rutApoderado": "15496452-5",
+    "nombreAlumno": "Lebiante Hidalgo, Rodolfo Gabriel",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CARCAMO QUINTUL, ELIO ANTONIO",
+    "rutApoderado": "10973399-7",
+    "nombreAlumno": "Medina Álvarez, Natalia Fernanda",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SALDIAS YAÑEZ, YESSICA JEANETTE",
+    "rutApoderado": "15687558-9",
+    "nombreAlumno": "Melo Saldías, Belén Jazmín",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CONCHA PAREDES, VERÓNICA MERCEDES",
+    "rutApoderado": "14038211-6",
+    "nombreAlumno": "Naguil Rail, Danixa Alexandra",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "NAIL RUIZ, JORGE DANIEL",
+    "rutApoderado": "15295071-3",
+    "nombreAlumno": "Nail Paredes, Alen Martina",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Núñez Lira, Mitzi Dennisse",
+    "curso": "3°A",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Palma Vargas, Jorge Fernando",
+    "rutApoderado": "14417701-0",
+    "nombreAlumno": "Palma Yefi, Daniela Belén",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PAREDES VARA, ALEX GUILLERMO",
+    "rutApoderado": "15296705-5",
+    "nombreAlumno": "Paredes Ovando, Oriana Monserrat De Los Angeles",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "LEMUS MAYORGA , MARCELA ELIZABETH",
+    "rutApoderado": "14088951-2",
+    "nombreAlumno": "Pavez Lemus, Kristian Angel",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "FONTAINE DASSONVALLE , ALEXANDER ADOLFO",
+    "rutApoderado": "14613168-9",
+    "nombreAlumno": "Prieto Cerda, Cristóbal Andrés",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "RÍOS AROS, LUIS ALBERTO",
+    "rutApoderado": "13164744-1",
+    "nombreAlumno": "Ríos Carrasco, Beatriz Antonia",
+    "curso": "3ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ALBRECHT ZÚÑIGA, PRADELIA IVETTE",
+    "rutApoderado": "15296527-3",
+    "nombreAlumno": "Salazar García, Sergio Andrés",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ANGULO ASENCIO, JEANETTE IVONNE",
+    "rutApoderado": "13848839-k",
+    "nombreAlumno": "Sánchez Pavez, Daniel Benjamin",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SEPULVEDA CERDA, MARÍA CECILIA",
+    "rutApoderado": "11564263-4",
+    "nombreAlumno": "Santibáñez Uribe, Florencia Isidora",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PAVEZ PINO, ELIZABETH MARCELA",
+    "rutApoderado": "10849392-5",
+    "nombreAlumno": "Soto Pérez, Guissella Belén",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PERÉZ VIDAL, PATRICIA",
+    "rutApoderado": "17197982-k",
+    "nombreAlumno": "Valenzuela Ríos, Amaya Victoria",
+    "curso": "3ºA",
+    "Modalidad" : "Externo"
+  },
+ 
+
+
+  
+  {
+    "nombreApoderado": "AGUILAR VARGAS, JOSE ERIBERTO",
+    "rutApoderado": "10867071-1",
+    "nombreAlumno": "Aguilar Henríquez, Erica Lida Liselott",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ARIAS GUZMÁN, JEANETTE ALEJANDRA",
+    "rutApoderado": "13823232-8",
+    "nombreAlumno": "Alvarado Martínez, María José",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MAQUEHUE MELILLANCA, LIDIA",
+    "rutApoderado": "13821046-4",
+    "nombreAlumno": "Álvarez Navarrete, Sebastián Alexi",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CASTRO MANCILLA, VICTORIA MARLENE",
+    "rutApoderado": "15496346-4",
+    "nombreAlumno": "Álvarez Noches, Víctor Jesús",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CORREA CÁRDENAS, EGLION ROLI",
+    "rutApoderado": "14182829-0",
+    "nombreAlumno": "Álvarez Paillán, Javiera Belén",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Amolef Silva, Jose Adolfo",
+    "rutApoderado": "12755608-3",
+    "nombreAlumno": "Amolef Landivar, Camila Jireh",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "AGUILAR VARGAS, AMELIA IDETH",
+    "rutApoderado": "13404633-3",
+    "nombreAlumno": "Cárdenas Vergara, Karla Poleth",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Vidal Lobos, Luis Alejandro",
+    "rutApoderado": "15297049-8",
+    "nombreAlumno": "Catalán Catalán, Vicente Alejandro",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "TRUYAO HUAITRO, MARIO",
+    "rutApoderado": "16048236-2",
+    "nombreAlumno": "Concha Reyes, Eduarda Belén",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ALVARADO GUERRERO, LUIS ALBERTO",
+    "rutApoderado": "11594096-1",
+    "nombreAlumno": "Correa Catrupay, Daniel Ignacio",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GUZMÁN SALVO, CARLOS RAFAEL",
+    "rutApoderado": "11747075-K",
+    "nombreAlumno": "Erices Leiva, Graciela Alejandra",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CÁRDENAS POLANCO, JAIME CARLOS",
+    "rutApoderado": "12755470-6",
+    "nombreAlumno": "Gonzalez Aguila, Paz Millaray",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ROSAS TENORIO, JACQUELINE DEL CARMEN",
+    "rutApoderado": "12752770-9",
+    "nombreAlumno": "Gonzalez Rosas, Abigail Noemí",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Guzmán Vilches, Amalia Helena",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GONZÁLEZ HUIRIMILLA , MIGUEL",
+    "rutApoderado": "16583984-6",
+    "nombreAlumno": "Hernández Arias, Alexander Jesús",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SANDOVAL NAVARRETE, MAURICIO ELIER",
+    "rutApoderado": "15271531-5",
+    "nombreAlumno": "Hueicha Aguilar, Yael Antonio",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Corrales Martinez, Sandra Alicia",
+    "rutApoderado": "14040091-2",
+    "nombreAlumno": "Huenante Loncon, Daniela Oriana",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "BELTRAN ALVARADO, CYNTHIA",
+    "rutApoderado": "15689292-0",
+    "nombreAlumno": "Laiño Vegas, Fernando Maximiliano",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Alvarez Gomez, Gerardo javier",
+    "rutApoderado": "16963760-1",
+    "nombreAlumno": "Lepun Lepún, Fernanda Tatiana",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SOLIS BACHMAN, OSCAR MANUEL",
+    "rutApoderado": "14481407-k",
+    "nombreAlumno": "Martinez Corrales, Javiera Ignacia",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ÁLVAREZ TRECAQUISTA, MARTA DEL CARMEN",
+    "rutApoderado": "15496134-8",
+    "nombreAlumno": "Martínez Vidal, Pía Isidora",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "AZOCAR FERNANDEZ, PAMELA DENIS",
+    "rutApoderado": "16047949-3",
+    "nombreAlumno": "Medina Azócar, Martin Elías",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Melillanca Quilapichun, Silvia Violeta",
+    "rutApoderado": "17659633-3",
+    "nombreAlumno": "Melillanca Quilapichun, Marcelo Leandro",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MEDINA AVILA , ELEODORA ISLANDINA",
+    "rutApoderado": "11138130-5",
+    "nombreAlumno": "Moll Pérez, Daniela Madeleine",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PEREZ NAVARRO, DANIEL",
+    "rutApoderado": "16603220-2",
+    "nombreAlumno": "Mondragon Manchabajoy, Kimberlyn",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Laiño Guzman, Mauricio Renato",
+    "rutApoderado": "12997422-2",
+    "nombreAlumno": "Naguian Amolef, Yisenia Belén",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "NAIGUAL CARDENAS, VICTOR ABEL",
+    "rutApoderado": "15275267-9",
+    "nombreAlumno": "Naigual Ortega, Catalina Araseli",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ERICES PAREDES, FRANCISCO JAVIER",
+    "rutApoderado": "17199031-9",
+    "nombreAlumno": "Oporto Castro, Nayareth Nataly",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "PEREZ MARTINEZ, MARIA ISABEL",
+    "rutApoderado": "13403701-6",
+    "nombreAlumno": "Oporto Perez, Martín Humberto",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "NAGUIAN NAGUIAN, LORENA PAOLA",
+    "rutApoderado": "16556220-8",
+    "nombreAlumno": "Salgado Naguian, Samanta Yordana",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Schultheiss Gonzalez, Beatriz del Carmen",
+    "rutApoderado": "15496426-6",
+    "nombreAlumno": "Pérez Schultheiss, Wuilliam Alexander",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CONCHA Duran, Eduardo",
+    "rutApoderado": "12890963-K",
+    "nombreAlumno": "Queutre Quidel, Constanza Ignacia",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MONTECINOS PÉREZ, MONICA MARGOTH",
+    "rutApoderado": "12753124-2",
+    "nombreAlumno": "Rodríguez Montecinos, Yiomara Belén",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GUZMÁN RETAMAL, JORGE ANDRÉS",
+    "rutApoderado": "19175379-8",
+    "nombreAlumno": "Paredes Álvarez, Catalina Roselin",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Sandoval Orella, Valentina Constanza",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "AMOLEF ABURTO, PATRICIA ANGELICA",
+    "rutApoderado": "15295395-k",
+    "nombreAlumno": "Sandoval Rojel, Joseph Bastián",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SEPÚLVEDA VILLARROEL, JUAN LEOPOLDO",
+    "rutApoderado": "08851711-3",
+    "nombreAlumno": "Sepúlveda Infante, Fernanda Belén",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Martínez Vidal, Fredy Andrés",
+    "rutApoderado": "15687720-4",
+    "nombreAlumno": "Solís Ledezma, Catalina Margot",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "LEPUN LEFIAN, MARIA YESSICA",
+    "rutApoderado": "15528619-9",
+    "nombreAlumno": "Soto Beltran, Joaquín Ignacio",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SOTO SOTO, CARLOS ANDRES",
+    "rutApoderado": "10381706-4",
+    "nombreAlumno": "Soto Mellado, Angela Martina",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "BARRÍA MUÑOZ, SILVANA MAKARENA",
+    "rutApoderado": "18470218-5",
+    "nombreAlumno": "Toloza Barría, Danitza Trinidad",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "NOCHES DELGADO, ELSA MARIBEL",
+    "rutApoderado": "17126019-1",
+    "nombreAlumno": "Truyao Sobarzo, Llamdary Shyumara",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VIDAL CASTILLO, PATRICIO ALBERTO",
+    "rutApoderado": "12755293-2",
+    "nombreAlumno": "Vidal Acum, Yenifer Patricia",
+    "curso": "4ºA",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "LONCÓN RALIL, MARTA ORIANA",
+    "rutApoderado": "14087413-2",
+    "nombreAlumno": "Zapata Arriagada, Angela Del Carmen",
+    "curso": "4ºA",
+    "Modalidad" : "Externo"
+  },
+
+
+
+
+
+  {
+    "nombreApoderado": "Jacqueline Cardenas Solis",
+    "rutApoderado": "16343766-k",
+    "nombreAlumno": "Acum Cardenas, Jesus Eduardo",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  
+  },
+  {
+    "nombreApoderado": "Genesis Febe Zuñiga Aros,",
+    "rutApoderado": "16781831-5",
+    "nombreAlumno": "Agüero Zuñiga, Nicolás Armando René",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Mancilla Imilan, Ingrid Nori",
+    "rutApoderado": "15952638-0",
+    "nombreAlumno": "Alvarado Mancilla, Javiera Adriana",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "FIGUEROA TORRES, MARISELA JACQUELINE",
+    "rutApoderado": "17125526-0",
+    "nombreAlumno": "Antipan Figueroa, Axel Benjamin",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CARDENAS PEREZ, MARIA LORENA",
+    "rutApoderado": "15295564-2",
+    "nombreAlumno": "Arriagada Cardenas, Yuliana Yaritza",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Gómez Llancar, Nicol Magdalena",
+    "rutApoderado": "18870446-8",
+    "nombreAlumno": "Baez Gómez, Felipe Alexander Antonio",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Garcés Barria, Jessica Viviana",
+    "rutApoderado": "16781728-9",
+    "nombreAlumno": "Calisto Garcés, Aldrin Daniloa",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "DIAZ DIAZ, VALERIA EDITH",
+    "rutApoderado": "17198823-3",
+    "nombreAlumno": "Delgado Díaz, Sofia Isidora",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "DÍAZ SALDAÑA, HARRY EDUARDO",
+    "rutApoderado": "16781755-6",
+    "nombreAlumno": "Díaz Chavol, Anahis Alexandra",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Burgos Pino, Eduviges Andrea",
+    "rutApoderado": "14224791-7",
+    "nombreAlumno": "Duamante Burgos, Tonka Sthafanie",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Estupiñan Bravo, Paola Andrea",
+    "rutApoderado": "24073825-2",
+    "nombreAlumno": "Estupiñan Bravo, Juan Pablo",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Fuentealba Corona, Horacio Heriberto",
+    "rutApoderado": "15688112-0",
+    "nombreAlumno": "Fuentealba Villarroel, Rocio Pascal",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "HUICHACAN VARGAS, PATRICIA FILOMENA",
+    "rutApoderado": "13404518-3",
+    "nombreAlumno": "Gomez Burgos, Pia Andrea",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "HUILITRARO MARTINEZ, FABIOLA CRISTINA",
+    "rutApoderado": "17127592-K",
+    "nombreAlumno": "Gonzalez Huilitraro, Alison Del Rocio",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GUINEO DÍAZ, JOSÉ OSCAR",
+    "rutApoderado": "07391747-6",
+    "nombreAlumno": "Guineo Salgado, Oscar Isaac",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ojeda Soto, Yohanna Andrea",
+    "rutApoderado": "16047863-2",
+    "nombreAlumno": "Hueitra Yefi, Verena Russell",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "LÓPEZ ANDRADE , LUISA SOLEDAD",
+    "rutApoderado": "14096338-0",
+    "nombreAlumno": "Huenuqueo López, Marcelo Javier",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "VENEGAS CONEJEROS , MACARENA ALEJANDRA",
+    "rutApoderado": "15970732-6",
+    "nombreAlumno": "Jara Venegas, Alexis Amaru",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Priscila Jeldes Guerrero",
+    "rutApoderado": "13879588-8",
+    "nombreAlumno": "Leiva Jeldes, Eliseo Isai",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Vidal Llanquin, Carola Paulina",
+    "rutApoderado": "17742912-0",
+    "nombreAlumno": "Malpu Vidal, Sebastián Andrés",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "BAEZ BAEZ, CAROLINA ANTONIA",
+    "rutApoderado": "15276563-0",
+    "nombreAlumno": "Mancilla Baez, Matias Alejandro",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Torres Jaramillo, Jimena Elizabeth",
+    "rutApoderado": "15489041-6",
+    "nombreAlumno": "Manquian Torres, Marco Alexander",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MENESES HUANQUE, CARMEN GLORIA",
+    "rutApoderado": "17532647-2",
+    "nombreAlumno": "Meneses Millan, Fernanda Antonia",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Amelia Obando Oporto",
+    "rutApoderado": "17200940-9",
+    "nombreAlumno": "Obando Obando, Paz Marlene",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Bahamondes Santana, Marcela Andrea",
+    "rutApoderado": "16587781-0",
+    "nombreAlumno": "Ortega Bahamondes, Martina Lucia",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "LONCUANTE PAREDES , ANGÉLICA BESTRIZ",
+    "rutApoderado": "15795999-9",
+    "nombreAlumno": "Ponce Loncuante, Denisse Monserrath",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MAILLANCA LLAITUL, DANIELA ALEJANDRA",
+    "rutApoderado": "17358212-9",
+    "nombreAlumno": "Ríos Maillanca, Francisca Alejandra",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PRIETO MANSILLA , CONSTNZA BELÉM",
+    "rutApoderado": "17659547-7",
+    "nombreAlumno": "Ríos Prieto, Cristopher Nicolás Reinaldo",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Viviana Soto Ojeda",
+    "rutApoderado": "15688012-4",
+    "nombreAlumno": "Rios Soto, Diego Eduardo",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Andrea Carrillo Saez",
+    "rutApoderado": "13802537-3",
+    "nombreAlumno": "Riquelme Carrillo, Lucas Rodrigo",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "URIBE BARRERA, MARGARITA MARIA",
+    "rutApoderado": "10898143-1",
+    "nombreAlumno": "Rojas Uribe, Catalina Belen",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Raul Rosas Arias",
+    "rutApoderado": "13823204-2",
+    "nombreAlumno": "Rosas Agüero, Nicolás Andrés",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Yoana Ayelen Gomez",
+    "rutApoderado": "20085907-3",
+    "nombreAlumno": "Sanchez Gomez, Genesis Yanabey",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Patricia Gallardo Morales",
+    "rutApoderado": "16111807-9",
+    "nombreAlumno": "Sanhueza Gallardo, Lukaz Mateo",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Sanhueza Fuentes, Bernardo Alexis",
+    "rutApoderado": "13523145-2",
+    "nombreAlumno": "Sanhueza Maldonado, Amanda Ximena",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  
+  {
+    "nombreApoderado": "Rantul Muñoz, María Nancy",
+    "rutApoderado": "11924569-9",
+    "nombreAlumno": "Troncoso Rantul, Anahis Belén",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Fernanda Avarez Garcia",
+    "rutApoderado": "17126244-5",
+    "nombreAlumno": "Villarroel Alvarez Lisette Antonia",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Milka Contreras Riquelme",
+    "rutApoderado": "17927320-9",
+    "nombreAlumno": "Vega Contreras , Hellen Ignacia",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Sandra Almonacid Guineo",
+    "rutApoderado": "17714428-2",
+    "nombreAlumno": "Vidal Almonacid, Florencia Belen",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Elvecia Zuñiga Ortega",
+    "rutApoderado": "13163268-1",
+    "nombreAlumno": "Vidal Zuñiga, Tomás Mateo",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+
+
+
+
+  {
+    "nombreApoderado": "Orellana Orellana, Roxana Del Carmen",
+    "rutApoderado": "15814714-9",
+    "nombreAlumno": "Arango Orellana, Kevin Brandon",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Victoria Elizabeth Belmar Gomez",
+    "rutApoderado": "17465948-6",
+    "nombreAlumno": "Aribel Belmar, Paz Monserrat",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MEZA ALVARADO, ALEJANDRA YANETT",
+    "rutApoderado": "18490930-8",
+    "nombreAlumno": "Arteaga Meza, Emilia Anais",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Jasna Diana Vergara del Rio",
+    "rutApoderado": "16723374-0",
+    "nombreAlumno": "Avendaño Vergara, Bastián Alberto",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Blanco Alvarado, Jose Alex",
+    "rutApoderado": "14088305-0",
+    "nombreAlumno": "Blanco Hernandez, Jazmín Edith Ayelén",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MOREIRA CASTRO, TERESA EDITH",
+    "rutApoderado": "17197617-0",
+    "nombreAlumno": "Bustamante Moreira, Ambar Antonella",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CAUCAO BRANDT, ANITA MAKARENA",
+    "rutApoderado": "17741480-8",
+    "nombreAlumno": "Carrillo Cauco, José Ignacio",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "LEMUS HENRIQUEZ, MACARENA ESTER",
+    "rutApoderado": "16343171-8",
+    "nombreAlumno": "Catalan Lemus, Katalina Victoria",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Mellado Cárdenas, Marta Elena",
+    "rutApoderado": "17584554-2",
+    "nombreAlumno": "Chacon Mellado, Baztian Alexis",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Asenjo Veloso, Carolina Alejandra",
+    "rutApoderado": "15895874-0",
+    "nombreAlumno": "Duhalde Asenjo, Mayte Antonia",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Jose Aguila Sobarzo",
+    "rutApoderado": "8738604-k",
+    "nombreAlumno": "Gallego Gallego, Sofia Ignacia",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Francisca Aedo Moris",
+    "rutApoderado": "16614434-9",
+    "nombreAlumno": "Gatica Aedo, Emilio Alonso",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Silvia Melillanca Quilapichun",
+    "rutApoderado": "17659633-3",
+    "nombreAlumno": "Gualaman Melillanca, Gary Alejandro",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Hormazabal Valdes, Jorge Antonio",
+    "rutApoderado": "08342050-2",
+    "nombreAlumno": "Hormazabal Tonacca, Gaspar Augusto",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Carina Queulo Carrasco",
+    "rutApoderado": "24441667-5",
+    "nombreAlumno": "Huaiquio Queulo, Manuel Cristobal",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GALLEGO SOTO, MARITZA ROSALIA",
+    "rutApoderado": "15297878-2",
+    "nombreAlumno": "Huinca Gallego, Exequiel Fabian",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Linay Quichel, Luis Orlando",
+    "rutApoderado": "14506680-8",
+    "nombreAlumno": "Linay Carrasco, Luis Ismael",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Sandoval Cardenas, Rosa",
+    "rutApoderado": "16111713-7",
+    "nombreAlumno": "Lorca Sandoval, Eduardo Patricio",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Abelina Ancapan Pailapichun",
+    "rutApoderado": "16263596-4",
+    "nombreAlumno": "Manzano Ancapan, Damian Leonardo",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Bustamante Pérez, Katerin Yisenia",
+    "rutApoderado": "18239361-4",
+    "nombreAlumno": "Martínez Bustamante, Anahi Del Pilar",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "San Martin Martínez, Annelore Del Carmen",
+    "rutApoderado": "10685897-7",
+    "nombreAlumno": "Martínez San Martin, Francisco Jesus",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PLAZA BAEZ, STEPHANIE PATRICIA",
+    "rutApoderado": "18626472-K",
+    "nombreAlumno": "Melgarejo Plaza, Vicente Ignacio",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Venegas Hidalgo, Marlene delCarmen",
+    "rutApoderado": "13522876-1",
+    "nombreAlumno": "Menares Venegas, Fredy Eduardo",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Beatris Añazco Añazco",
+    "rutApoderado": "18579172-6",
+    "nombreAlumno": "Nempu Añazco, Erwin Alexander",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MELLA HUICHACAN, ROXANA BEATRIZ",
+    "rutApoderado": "18281665-5",
+    "nombreAlumno": "Oyarzo Mella, Sandra Beatriz",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VIDAL PACHECO , MARIA",
+    "rutApoderado": "11597094-1",
+    "nombreAlumno": "Oyarzo Vidal, Rocío Constanza",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Oyarzun Marquez, Miguel",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Barbara Quilahueque Triviño",
+    "rutApoderado": "18152197-k",
+    "nombreAlumno": "Paillacheo Quilahueque, Fabían Nicolás",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "RUIZ OBANDO, MARGARITA ISABEL",
+    "rutApoderado": "12029203-K",
+    "nombreAlumno": "Panchilla Ruiz, Yazmin Ignacia",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "PEREIRA SOBARZO, CRISTIAN ENRIQU",
+    "rutApoderado": "13821701-9",
+    "nombreAlumno": "Pereira Saavedra, Melanie Yahanara",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GUZMÁN RODRÍGUEZ , ERICA BERNARDITA",
+    "rutApoderado": "13522397-2",
+    "nombreAlumno": "Pérez Guzmán, Lesli Estefanía",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Schultheiss Gonzalez, Beatriz del Carmen",
+    "rutApoderado": "15496426-6",
+    "nombreAlumno": "Perez Schultheiss, Aracely Ailin",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Guerrero Guerrero, Soledad Beatriz",
+    "rutApoderado": "19269059-5",
+    "nombreAlumno": "Rios Guerrero, Margareth Del Carmen",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Montes Vega, Yudith Orieta",
+    "rutApoderado": "17658907-8",
+    "nombreAlumno": "Silva Montes, Antonia Catalina",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Lepe Campos, Ingrid Soledad",
+    "rutApoderado": "13823281-6",
+    "nombreAlumno": "Váldes Lepe, Maite Edelein",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VIDAL RAUQUE, ALEJANDRO ENRIQUE",
+    "rutApoderado": "14040124-2",
+    "nombreAlumno": "Vidal Ojeda, Matias Eduardo",
+    "curso": "1ºC",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Paola Saldivia Aguilar",
+    "rutApoderado": "17658876-4",
+    "nombreAlumno": "Zuñiga Saldivia, Benjamín Ignacio",
+    "curso": "1ºC",
+    "Modalidad" : "Externo"
+  },
+
+
+
+
+  {
+    "nombreApoderado": "Carolin Guajardo Ruiz",
+    "rutApoderado": "17125179-6",
+    "nombreAlumno": "Aguilera Guajardo, Kevin Angelo",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "LÉNIZ LENIZ, IRMA LUISA",
+    "rutApoderado": "18129967-3",
+    "nombreAlumno": "Antimil Leniz, José Alberto",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Arriagada Hernandez, Victor",
+    "rutApoderado": "13405707-6",
+    "nombreAlumno": "Arriagada Poblete, Victoria Constanza",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Waleska Ramirez Gomez",
+    "rutApoderado": "13848302-9",
+    "nombreAlumno": "Carabante Ramirez, Gonzalo Mauricio",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Jacqueline Vargas Nuñez",
+    "rutApoderado": "17124894-9",
+    "nombreAlumno": "Cárcamo Vargas, Kevin Alexander",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "HERRERA HUANQUIL, ELIANA ESTER",
+    "rutApoderado": "16781722-k",
+    "nombreAlumno": "Carrasco Herrera, Maite Belén",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Ximena Queulo Triviño",
+    "rutApoderado": "1527163-0",
+    "nombreAlumno": "Del Rio Queulo, Leandro Alfonso",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Soto Soto, Carolina Ivethe",
+    "rutApoderado": "17126134-1",
+    "nombreAlumno": "Del Rio Soto, Gerald Alexandro",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "HINOSTROZA GUERRERO, SONIA SOLEDAD",
+    "rutApoderado": "14599065-3",
+    "nombreAlumno": "Fuentes Hinostroza, Darío Angel",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "AGUERO ELGUETA, PAULINA MACARENA",
+    "rutApoderado": "17056019-1",
+    "nombreAlumno": "Garces Aguero, Alexander Enrique",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CRUCES HUEITRA, MARÍA TERESA",
+    "rutApoderado": "15500099-6",
+    "nombreAlumno": "Hernández Cruces, Agustín Guillermo",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Tonacca Berrios, Deborah Roxana",
+    "rutApoderado": "15352869-1",
+    "nombreAlumno": "Hormazabal Tonacca, Moises Alfonso",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ingrid Paredes Clafui",
+    "rutApoderado": "13164033-1",
+    "nombreAlumno": "Lefian Paredes, Diego Maximiliano",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Eduvina Capillan Vargas",
+    "rutApoderado": "12759394-9",
+    "nombreAlumno": "Loncón Caipillán, Antonia Pascale",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CATALÁN SAAVEDRA, JASMÍN DEL CARMEN",
+    "rutApoderado": "18962929-k",
+    "nombreAlumno": "Mansilla Catalán, Yaritza Constanza",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MARTINEZ OJEDA, ANDRÉS NICOLÁS",
+    "rutApoderado": "15496241-7",
+    "nombreAlumno": "Martinez Molina, Liliana Andrea",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ojeda Ojeda, Mario Gerardo",
+    "rutApoderado": "15528779-9",
+    "nombreAlumno": "Ojeda Antiñir, Neschmy Amapola De Alba",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "NOCHES DIAZ, ANA VICTORIA",
+    "rutApoderado": "14521882-9",
+    "nombreAlumno": "Pacheco Noches, Fredy Agustin",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PAILLACHEO MILBAR, CLAUDIA ALEJANDRA",
+    "rutApoderado": "15795450-4",
+    "nombreAlumno": "Paillacheo Paillacheo, Evan Jesus",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "cardenas perez, Sandra odeth",
+    "rutApoderado": "17997308-1",
+    "nombreAlumno": "Peréz Cárdenas, Antonia Alejandra",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "QUICHEL QUICHEL, PABLO ESTEBAN",
+    "rutApoderado": "13819758-1",
+    "nombreAlumno": "Quichel Cifuentes, Madeleine Dominique",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Morales Silva, Ximena Guadalupe",
+    "rutApoderado": "12594172-9",
+    "nombreAlumno": "Ríos Morales, Pablo Ignacio",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Adrea Peranchuguay Barria",
+    "rutApoderado": "15873734-5",
+    "nombreAlumno": "Ríos Peranchuguay, Analyn Belén",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Ambar Almonacid Pérez",
+    "rutApoderado": "18492089-1",
+    "nombreAlumno": "Salas Almonacid, Valentina Anais",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SANDOVAL NAVARRETE, MAURICIO ELIER",
+    "rutApoderado": "15271531-5",
+    "nombreAlumno": "Sandoval Orellana, Damián Hernán",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "PÉREZ JARAMILLO , BRENDA KARINA",
+    "rutApoderado": "16040114-1",
+    "nombreAlumno": "Sandoval Pérez, Guillermo Ignacio",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Eudalio Santana Santana",
+    "rutApoderado": "10180432-1",
+    "nombreAlumno": "Santana Alday, Rodrigo Nicolas",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "LEAL LEAL, GLADYS DIANE",
+    "rutApoderado": "16781500-6",
+    "nombreAlumno": "Sepulveda Leal, Valentina Moryn",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VARGAS MANSILLA, JOSÉ ROLANDO",
+    "rutApoderado": "11116153-4",
+    "nombreAlumno": "Vargas Antimil, José Luis",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CALDERÓN TORRES, VALENTINA ISABEL",
+    "rutApoderado": "17594979-8",
+    "nombreAlumno": "Velásquez Calderón, Rocío Anelisse",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "AVELLO SAGARDÍA, JOCELYN FAVIANA",
+    "rutApoderado": "17378456-2",
+    "nombreAlumno": "Vergara Avello, Benjamín Ignacio",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Noemi Huichacán Huichacán",
+    "rutApoderado": "17098331-9",
+    "nombreAlumno": "Vidal Huichacan, Nayareth Ignacia",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+
+
+
+  
+  {
+    "nombreApoderado": "MENECES PACHECO, MARIA JOSE",
+    "rutApoderado": "18871322-k",
+    "nombreAlumno": "Aguilar Meneces, Luis David",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "NAVARRO PRADO, SANDRA DEL ROSARIO",
+    "rutApoderado": "12849897-4",
+    "nombreAlumno": "Alvarado Navarro, Arelys Nicolett",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ARIAS QUEULO, HECTOR RAUL",
+    "rutApoderado": "11710519-9",
+    "nombreAlumno": "Arias Cañulef, Matias Ismael",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SALDIVIA LLANCAR, YASMIN ALEJANDRA",
+    "rutApoderado": "18427315-2",
+    "nombreAlumno": "Barrientos Saldivia, Amaiia Dominique",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MANCILLA BARRIA, SUSANA BEATRIZ",
+    "rutApoderado": "11708372-1",
+    "nombreAlumno": "Bórquez Mancilla, Amalia Francisca",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Karina Sepulveda Castillo",
+    "rutApoderado": "15798535-3",
+    "nombreAlumno": "Burgos Sepulveda, Chris Gabriel",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CARABANTE CARABANTE, ALEXIS MAURICIO",
+    "rutApoderado": "13404558-2",
+    "nombreAlumno": "Carabantes Garcés, Joaquín Ignacio",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Karina Naguil Naguil",
+    "rutApoderado": "16263570-0",
+    "nombreAlumno": "Chacon Naguil, Dayana Fernanda",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "DELGADO RIOS, RAUL EDUARDO",
+    "rutApoderado": "13402243-4",
+    "nombreAlumno": "Delgado Silva, Benjamín Eduardo",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SAAVEDRA TORDOYA, MARIA FERNANDA",
+    "rutApoderado": "10296171-4",
+    "nombreAlumno": "Diaz Saavedra, Nicolas Andres Eduardo",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Maria Nauto Muñoz",
+    "rutApoderado": "10930464-6",
+    "nombreAlumno": "Epuyao Nauto, Felipe Andres",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Molina Barria, Sandra Mabel",
+    "rutApoderado": "17604817-4",
+    "nombreAlumno": "Flores Molina, Matias Nicolas",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "OYARZUN MELLADO, MERCEDES ANDREA DEL PILAR",
+    "rutApoderado": "16344411-9",
+    "nombreAlumno": "Gallardo Oyarzun, Valentina Anahis",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Villarroel Cardenas, Maria Adela",
+    "rutApoderado": "16507741-5",
+    "nombreAlumno": "Gallardo Villarroel, Angel Luis",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "NUÑEZ NUÑEZ, MARIA GABRIELA",
+    "rutApoderado": "19655849-7",
+    "nombreAlumno": "Gonzalez Nuñez, Ezequiel Agustín",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "BRAVO HUICHAL, ALEXANDRA TATIANA",
+    "rutApoderado": "17996769-3",
+    "nombreAlumno": "Hernández Bravo, Maycol Danilo",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "FIGUEROA SOLIS , ELSA MARINA",
+    "rutApoderado": "11710564-4",
+    "nombreAlumno": "Hernández Figueroa, Cristina",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "BURGOS GONZALEZ, TAMARA DEL CARMEN",
+    "rutApoderado": "16831592-9",
+    "nombreAlumno": "Huenufil Burgos, Javiera Monserrat",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "PUNOL TROQUIAN, GLORIA JACQUELINE",
+    "rutApoderado": "16046964-1",
+    "nombreAlumno": "Huenupán Punol, Diego Antonio",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ingrid Medina Muñoz",
+    "rutApoderado": "14038058-k",
+    "nombreAlumno": "Imilmaqui Medina, Constanza Rayen",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MANCILLA MOREIRA, CECILIA JACQUELINE",
+    "rutApoderado": "11708864-2",
+    "nombreAlumno": "Leviniere Mancilla, Jacqueline Antonella",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "OJEDA OJEDA, TATIANA DEL PILAR",
+    "rutApoderado": "18870039-k",
+    "nombreAlumno": "Mancilla Ojeda, Luis Antonio",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Maria Luisa Vidal Aguayo",
+    "rutApoderado": "11542835-7",
+    "nombreAlumno": "Maripan Vidal, Angelina Loredana",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CEA SANDOVAL, JESSICA IRIS",
+    "rutApoderado": "13821364-1",
+    "nombreAlumno": "Martínez Cea, Monserrat Anai",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Andra Nehuellanca Salinas",
+    "rutApoderado": "15295254-6",
+    "nombreAlumno": "Martínez Nehuellanca, Isidora Antonella",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Venegas Contreras, Patricia del Carmen",
+    "rutApoderado": "11648934-1",
+    "nombreAlumno": "Molina Venegas, Rafaela De Los Angeles",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GUARDA CARRASCO, INGRID YANETH",
+    "rutApoderado": "18238213-2",
+    "nombreAlumno": "Montecinos Guarda, Vicente Exequiel",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "RUIZ ADRIAZOLA, ADELINA",
+    "rutApoderado": "13164149-4",
+    "nombreAlumno": "Montecinos Ruiz, David Alexander",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "KRAMM AGUILAR, DANIELA DANIXA",
+    "rutApoderado": "18870096-9",
+    "nombreAlumno": "Ojeda Kramm, Johann Alexis",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Veronica Oliva Flores",
+    "rutApoderado": "16343866-6",
+    "nombreAlumno": "Quezada Oliva, Amparo Del Carmen",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "RÍOS AROS, LUIS ALBERTO",
+    "rutApoderado": "13164744-1",
+    "nombreAlumno": "Ríos Carrasco, Francisco Alfonso",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "BARRIA VILLARROEL, YENY YAMILETH",
+    "rutApoderado": "13165564-9",
+    "nombreAlumno": "Rosales Barría, Constanza Yamileth",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Silvana Veronica Rivera Rivera",
+    "rutApoderado": "15274948-1",
+    "nombreAlumno": "Ruiz Rivera, Camila Elizabeth",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SALAZAR VALDERAS, DANIEL ANDRÉS",
+    "rutApoderado": "15272332-6",
+    "nombreAlumno": "Salazar Gutiérrez, Daniel Isaias",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ÁLVAREZ OJEDA, MIRTA IRENE",
+    "rutApoderado": "08147017-0",
+    "nombreAlumno": "Silva Cardenas, Nicolás Felipe",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "AEDO SAAVEDRA, JAIME LEONEL",
+    "rutApoderado": "11114504-0",
+    "nombreAlumno": "Silva Rodriquez, Isidora Ignacia",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MANCILLA COSIO, EVELYN",
+    "rutApoderado": "16112349-8",
+    "nombreAlumno": "Vera Mancilla, Jesus Benjamín",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+
+
+
+
+ {
+    "nombreApoderado": "TORRES CERDA, DANIELA CONSTANZA",
+    "rutApoderado": "17356988-2",
+    "nombreAlumno": "Andrade Torres, Aquiles Javier",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "AGÜERO OVANDO, CRISTIAN",
+    "rutApoderado": "13522673-4",
+    "nombreAlumno": "Agüero Imilan, Jordán Rodrigo",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "AGUILEF AGUILEF, IVAN HERIBERTO",
+    "rutApoderado": "15689622-5",
+    "nombreAlumno": "Aguilef Valderas, Ivan René",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "AMOLEF LANDIVAR, CAMILA JIREH",
+    "rutApoderado": "22585729-6",
+    "nombreAlumno": "Amolef Amolef, Evelyn Del Pilar",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ASENJO URRUTIA, SIXTO SEGUNDO",
+    "rutApoderado": "13819256-3",
+    "nombreAlumno": "Asenjo Huequelef, Carla Denis",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Benitez Ramirez, Cristian David",
+    "rutApoderado": "12880655-5",
+    "nombreAlumno": "Benítez Vargas, Benjamín David",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CARMONA ABURTO , GUILLERMO FRANCISCO",
+    "rutApoderado": "17743008-0",
+    "nombreAlumno": "Carmona Torres, Benjamín Ignacio",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SOTO QUIJADA, SANDRA ISABEL",
+    "rutApoderado": "10974052-7",
+    "nombreAlumno": "Deumacán Soto, Alex Abelardo",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "FLORES Yancoman , Javier Eduardo",
+    "rutApoderado": "16585054-8",
+    "nombreAlumno": "Flores Soto, Benjamin Eduardo",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "BARRIA PAISIL, PAMELA BERNARDA",
+    "rutApoderado": "16831627-5",
+    "nombreAlumno": "González Barría, Michelle Stephanie",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Angulo Rios, Tamara Pilar",
+    "rutApoderado": "17197914-5",
+    "nombreAlumno": "Henríquez Ángulo, Maite Génesis",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PARRA PARRA, ORIANA DEL CARMEN",
+    "rutApoderado": "16050478-1",
+    "nombreAlumno": "Herrera Parra, Eduardo Antonio",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Paillacar Maldonado, Daniela Cinthi",
+    "rutApoderado": "15792756-6",
+    "nombreAlumno": "Huaitro Paillacar, Hade",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Villegas Guzman, Veronica Francisca",
+    "rutApoderado": "17659947-2",
+    "nombreAlumno": "Lepe Villegas, Joaquín Alejandro",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MALDONADO VELÁSQUEZ, MARIELA DE LOURDES",
+    "rutApoderado": "15292466-6",
+    "nombreAlumno": "Maldonado Maldonado, Sofía Aracely",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MONSALVE MONSALVE, CARLOS ROBERTO",
+    "rutApoderado": "15496106-2",
+    "nombreAlumno": "Monsalve Bruno, Isamar Millaray",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MIRANDA RAUQUE, YOSELYN IRENE",
+    "rutApoderado": "17657931-5",
+    "nombreAlumno": "Moraga Miranda, Emely Del Pilar",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ALVAREZ FUENTES, VERÓNICA",
+    "rutApoderado": "18130119-8",
+    "nombreAlumno": "Muñoz Álvarez, Cristian David",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MUÑOZ RODRIGUEZ, ALEX",
+    "rutApoderado": "17197810-6",
+    "nombreAlumno": "Muñoz Angulo, Javiera Antonella",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "OÑATE URIBE, ELISABET MARIBEL",
+    "rutApoderado": "16113032-K",
+    "nombreAlumno": "Rauque Oñate, Emily Anaiz",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "AGÜERO RAMÍREZ, MARUBENI CAROLINA",
+    "rutApoderado": "15013291-6",
+    "nombreAlumno": "Rosas Agüero, Matías Adolfo",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CARO CARO, ALEJANDRA",
+    "rutApoderado": "18129226-1",
+    "nombreAlumno": "Salas Caro, Belén Alejandra",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SOTO PACHECO, HORACIO DIRIE",
+    "rutApoderado": "17056193-7",
+    "nombreAlumno": "Soto Carrión, Catalina Aylin",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MANCILLA GONZÁLEZ, LILIAN MARICEL",
+    "rutApoderado": "15895783-3",
+    "nombreAlumno": "Troncoso Mancilla, Michelle Ignacia Odita",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "VIDAL TRIBIÑO, RAÚL MARCELO",
+    "rutApoderado": "13823486-k",
+    "nombreAlumno": "Vidal Bello, Maximiliano Benjamín",
+    "curso": "3°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VILLAROEL PRIETO , LUIS",
+    "rutApoderado": "15496243-3",
+    "nombreAlumno": "Villarroel Castro, Amaratt Noemi",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  
+
+
+
+  {
+    "nombreApoderado": "Soto Duran, Fabiola Elizabeth",
+    "rutApoderado": "16262887-9",
+    "nombreAlumno": "Barría Soto, Luis Adolfo",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "BILCHE MUÑOZ, BYRON ALONSO",
+    "rutApoderado": "10865781-2",
+    "nombreAlumno": "Bilche Azócar, Paulina Monserrat",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "BUSTAMANTE REYES, LUZ MARGOTH",
+    "rutApoderado": "12592186-8",
+    "nombreAlumno": "Caipichun Bustamante, Lucas Esteban",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GONZÁLEZ COLIPÁN, ORIANA DEL CARMEN",
+    "rutApoderado": "14417354-6",
+    "nombreAlumno": "Calfullanca González, Ámbar Valeska",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MUÑOZ ALMONACID, LUCINDA DEL CARMEN",
+    "rutApoderado": "16482409-8",
+    "nombreAlumno": "Cañoles Muñoz, Yulisa Alejandra",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SANTANA GOMEZ, ELISA",
+    "rutApoderado": "12753611-2",
+    "nombreAlumno": "Carmona Santana, Marcelo Alonso",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MANRIQUEZ FERNANDEZ, EDELMA",
+    "rutApoderado": "09131181-k",
+    "nombreAlumno": "Corona Corona, María José",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MORALES AILEF, LETICIA VIVIANA",
+    "rutApoderado": "17549549-5",
+    "nombreAlumno": "Delgado Morales, Millaray Anahí",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Diaz Del Rio, Jorge Patricio",
+    "rutApoderado": "15276847-8",
+    "nombreAlumno": "Díaz Mellado, Aaron Jesús",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "FERNANDEZ Hervia, Paulo Andrés",
+    "rutApoderado": "10820647-0",
+    "nombreAlumno": "Fernandez Amolef, Matías Andrés",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "FRIAS MANCILLA, ROSA EDITH",
+    "rutApoderado": "15689137-1",
+    "nombreAlumno": "Gallardo Frías, Nicolás Ferando",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ANDRADE YÁÑEZ, ANA CRISITINA",
+    "rutApoderado": "10570908-0",
+    "nombreAlumno": "Gómez Andrade, Víctor Gabriel",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "FUENZALIDA GONZALEZ, PAMELA JACQUELINE",
+    "rutApoderado": "16604435-9",
+    "nombreAlumno": "Guaitiao Fuenzalida, Francisco Javier",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MARTINEZ ISLA, BERNARDITA DEL CARMEN",
+    "rutApoderado": "11140278-7",
+    "nombreAlumno": "Guarda Martínez, Sonia Rocio Del Pilar",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MANCILLA MANCILLA, JOSÉ ALEJANDRO",
+    "rutApoderado": "14040516-7",
+    "nombreAlumno": "Mancilla Llancar, Victoria Elizabeth",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Gomez Morales, Ingrid Pamela",
+    "rutApoderado": "14039777-6",
+    "nombreAlumno": "Martínez Gómez, Valentina Yoreley",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MULCHI CARRILLO, DARBIN ADALBERTO",
+    "rutApoderado": "13119434-K",
+    "nombreAlumno": "Mulchi Silva, Joaquín Maximiliano",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "VELÁSQUEZ CALFUEQUE, ADELINA ELIANA",
+    "rutApoderado": "14084816-6",
+    "nombreAlumno": "Muñoz Velásquez, Consuelo Valentina",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "TRAFIAN ÁLVAREZ, PAMELA DEL CARMEN",
+    "rutApoderado": "16047742-3",
+    "nombreAlumno": "Quintul Trafian, Camila Belén",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "SOTOMAYOR CAIGUAN, DANIELA BEATRIZ",
+    "rutApoderado": "16048179-k",
+    "nombreAlumno": "Sepúlveda Sotomayor, Leandro Elías",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SANCHEZ QUINAO, SABINA EVELYN",
+    "rutApoderado": "15689637-3",
+    "nombreAlumno": "Toledo Sánchez, Francisco Javier",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "TRUYAO HUAITRO, MARIO",
+    "rutApoderado": "16048236-2",
+    "nombreAlumno": "Truyao Sobarzo, Yasmira Anay",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CARMONA CATALAN, CAROLINA SOLEDAD",
+    "rutApoderado": "14039077-1",
+    "nombreAlumno": "Vargas Carmona, Diego Sebastian",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CÁRDENAS BAEZ, YOHANA JACQUELINE",
+    "rutApoderado": "16603378-0",
+    "nombreAlumno": "Vásquez Cárdenas, Alexander Jesús",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MARTINEZ PEREZ, MARCY KARIN",
+    "rutApoderado": "12754012-8",
+    "nombreAlumno": "Vega Martinez, Anaiz Margarita",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Olmos Pedreros, Solange",
+    "rutApoderado": "16476691-8",
+    "nombreAlumno": "Yáñez Olmos, Jorge Vicente Ignacio",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "NEIRA SOTO, DENISSE VALERIA",
+    "rutApoderado": "17358210-2",
+    "nombreAlumno": "Zúñiga Neira, Martina Antonia",
+    "curso": "3°C",
+    "Modalidad" : "Externo"
+  },
+ 
+
+
+
+
+  {
+    "nombreApoderado": "Barria Mayerovich, Sandra Isabel",
+    "rutApoderado": "15874291-8",
+    "nombreAlumno": "Angulo Barría, Juan Francisco Javier",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MENDEZ CATRILEF, OLIVIA",
+    "rutApoderado": "13165507-K",
+    "nombreAlumno": "Antigual Méndez, Darixa Elcira",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MARIHUAL LLANQUILEF, MARIA ELENA",
+    "rutApoderado": "05941469-0",
+    "nombreAlumno": "Apablaza Llanquilef, Reinaldo Esteban",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "BARRERA MORA, JOSÉ LUIS",
+    "rutApoderado": "12755456-0",
+    "nombreAlumno": "Barrera Yáñez, Sofía Yahis",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "QUINTEROS QUINTEROS, DANIXA ROSANA",
+    "rutApoderado": "17742450-1",
+    "nombreAlumno": "Carvallo Quintero, Miguel Alejandro",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ESTROZ ANCAPAN, GUISELA ANDREA",
+    "rutApoderado": "16343040-1",
+    "nombreAlumno": "Catalan Estroz, José Tomás Elías",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GALLARDO JIMENEZ, JAVIER ENRIQUE",
+    "rutApoderado": "12342265-1",
+    "nombreAlumno": "Gallardo Villarroel, Pilar Fernanda",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ALVIAL RODRIGUEZ, SARA GRACIELA",
+    "rutApoderado": "13589458-3",
+    "nombreAlumno": "García Alvial, Pia Victoria Paz",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ADRIAZOLA MONTIEL, AMALIA DEL CARMEN",
+    "rutApoderado": "15273480-8",
+    "nombreAlumno": "Gatica Adriazola, Marcela Anahi",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "OJEDA GONZALEZ , DORIS LILIAN",
+    "rutApoderado": "14040188-9",
+    "nombreAlumno": "González Ojeda, Nicolas Eduardo",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MAQUEHUE MELILLANCA , LIDIA INÉS",
+    "rutApoderado": "13821046-4",
+    "nombreAlumno": "Lara Maquehue, Ricardo Bastián",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VARGAS LEPE, ANA KAREN",
+    "rutApoderado": "17531378-8",
+    "nombreAlumno": "Loncomilla Vargas, Catalina Juaquina",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "NUÑEZ NUÑEZ, MARIA",
+    "rutApoderado": "19655849-7",
+    "nombreAlumno": "Maldonado González, Mateo Ignacio",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "LONCOMILLA OJEDA, ROXANA ANDREA",
+    "rutApoderado": "15496418-5",
+    "nombreAlumno": "Mansilla Loncomilla, María Fernanda",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Velasquez Gomez, Juan",
+    "rutApoderado": "13523774-4",
+    "nombreAlumno": "Medina Melillanca, Benjamín Alexis",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Llaitul Gonzalez, Marianela del Carmen",
+    "rutApoderado": "15795405-9",
+    "nombreAlumno": "Monje Llaitul, Michelle Ysolee",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MARTINEZ ISLA, IRENE DE LOS ANGELES",
+    "rutApoderado": "12103246-5",
+    "nombreAlumno": "Montes Martinez, Sebastián Ignacio",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GONZALEZ OYARZO, JONY ANDRÉS",
+    "rutApoderado": "17660073-k",
+    "nombreAlumno": "Paisil Quisel, Alexis Andrés",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Hervia Márquez, Berta Eliana",
+    "rutApoderado": "08454707-7",
+    "nombreAlumno": "Palma Hervia, Javier Alexis",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Palma Vargas, Jorge Fernando",
+    "rutApoderado": "14417701-0",
+    "nombreAlumno": "Palma Yefi, Alejandra Irene",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PAREDES VARA, ALEX GUILLERMO",
+    "rutApoderado": "15296705-5",
+    "nombreAlumno": "Paredes Ovando, Máximo Jesús",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "FERNANDEZ CHACON, AMALIA JACQUELINE",
+    "rutApoderado": "16338158-3",
+    "nombreAlumno": "Pueñanco Fernández, Jorge Andrés",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "AGUERO VERA, MARIA EUGENIA",
+    "rutApoderado": "13822442-2",
+    "nombreAlumno": "Ramírez Agüero, Benjamin Isaias",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ROSALES FARIAS, MOISES ELADIO",
+    "rutApoderado": "08786579-7",
+    "nombreAlumno": "Rosales Varas, Moises Arcangel",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GUZMAN NUÑEZ, JACQUELINE PAOLA",
+    "rutApoderado": "15297873-1",
+    "nombreAlumno": "Santibañez Guzmán, Jesus Nicolas",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SUBIABRE OYARZO, LUIS",
+    "rutApoderado": "11690786-0",
+    "nombreAlumno": "Subiabre Ancalef, Catalina Aylin",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CEA BAHAMONDE, SANDRA KARINA",
+    "rutApoderado": "13823233-6",
+    "nombreAlumno": "Troncoso Cea, Karla Fernanda",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "VILLAROEL PRIETO , LUIS",
+    "rutApoderado": "15496243-3",
+    "nombreAlumno": "Villarroel Castro, Deivid Osvaldo",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "YAÑEZ MELO, LEONARDO ESTEBAN",
+    "rutApoderado": "16830769-1",
+    "nombreAlumno": "Yáñez Muñoz, Nicolás Gerardo",
+    "curso": "4° B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ARAYA SOTO, VIVIANA ESTEFANI",
+    "rutApoderado": "17464342-3",
+    "nombreAlumno": "Zamorano Araya, Javiera Antonia",
+    "curso": "4° B",
+    "Modalidad" : "Interno"
+  },
+  
+
+
+
+
+  {
+    "nombreApoderado": "ARANEDA SEPÚLVEDA, BRUSEL SOLEDAD",
+    "rutApoderado": "16906058-4",
+    "nombreAlumno": "Alvarado Araneda, Mathias Tomás",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "ANDRADE KRAUSE, JESSICA MARISOL",
+    "rutApoderado": "11742145-7",
+    "nombreAlumno": "Andrade Andrade, Leonor Isabel",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "cardenas perez, Sandra odeth",
+    "rutApoderado": "17997308-1",
+    "nombreAlumno": "Arriagada Cárdenas, Karen Millarai",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CEA GONZÁLEZ, KAROLAY CRISTINA",
+    "rutApoderado": "18870212-0",
+    "nombreAlumno": "Cea Cea, Freddy Sebastián",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "CONTRERAS ABARCA, MANUEL ANTONIO",
+    "rutApoderado": "10744975-2",
+    "nombreAlumno": "Contreras Díaz, Joice Paz Belén",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "COYOPAY CATALAN, EDUARDO",
+    "rutApoderado": "16339075-2",
+    "nombreAlumno": "Coyopay Vidal, Constanza Yazmin",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "SOBARZO MELENDRES , ARACELY DEL CARMEN",
+    "rutApoderado": "13402487-9",
+    "nombreAlumno": "Delgado Sobarzo, Maira Belén",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VERGARA GÁLVEZ, YOSSELINE PRISCILLA",
+    "rutApoderado": "17465974-5",
+    "nombreAlumno": "Faos Vergara, Denisse Belén",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GATICA NOCHES, JORGE LUIS",
+    "rutApoderado": "08929895-4",
+    "nombreAlumno": "Gatica Fuentealba, Roberto Andres",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GONZÁLEZ URIBE, RICARDO ERWIN",
+    "rutApoderado": "11108862-4",
+    "nombreAlumno": "González Ñirril, Valentina Scarlet",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Gualaman Del Rio, Horacio Hernán",
+    "rutApoderado": "13823321-9",
+    "nombreAlumno": "Gualaman Márquez, Bárbara Gissele",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "HUALA MORALES, MAURICIO ALEJANDRO",
+    "rutApoderado": "13161535-3",
+    "nombreAlumno": "Huala Gallardo, Mauricio Esteban",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "HUALA ASENJO, CARLOS ALBERTO",
+    "rutApoderado": "12997573-3",
+    "nombreAlumno": "Huala Garnica, Carla Ignacia",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "OBANDO ULLOA, MARTÍN SEGUNDO",
+    "rutApoderado": "13521916-9",
+    "nombreAlumno": "Isla Álvarez, Ignacio Andres",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Dominguez Bastidas, Erika Jacqueline",
+    "rutApoderado": "12995258-K",
+    "nombreAlumno": "Jaramillo Domínguez, Francisco Eliseo",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Jaramillo Oñate, Matilde Maribel",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "MOLINA PACHECO, YOHANA ANDREA",
+    "rutApoderado": "17551964-5",
+    "nombreAlumno": "Leuquén Molina, Rouss Deily",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "LLANCAL BELMAR, ALEXIS OSCAR",
+    "rutApoderado": "15277415-k",
+    "nombreAlumno": "Llancal Rauque, Jonathan Felipe",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "ZUÑIGA FILÚN, GABRIEL MAURICIO",
+    "rutApoderado": "18238884-k",
+    "nombreAlumno": "Martinez Marileo, Javier Alejandro",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Fernandez Cumplido, Viviana Lucrecia",
+    "rutApoderado": "16047704-0",
+    "nombreAlumno": "Millán Fernández, Milena Ayleth",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MOLINA ORTEGA, MIGUEL ANGEL",
+    "rutApoderado": "11114215-7",
+    "nombreAlumno": "Molina Arango, Miguel César",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "BAYER CERÓN, LILIAN SCARLETH",
+    "rutApoderado": "16831412-4",
+    "nombreAlumno": "Navarro Bayer, Manuel Andrés",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "PAILLAMANQUE MANSILLA, JOVITA VIVIANA",
+    "rutApoderado": "14084917-0",
+    "nombreAlumno": "Obando Oyarzo, Matias Javier",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "PEREIRA SOBARZO, CRISTIAN ENRIQU",
+    "rutApoderado": "13821701-9",
+    "nombreAlumno": "Pereira Saavedra, Cecilia Betsabé",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "GONZALEZ IMILAN, GABRIELA NICOLE",
+    "rutApoderado": "16572463-1",
+    "nombreAlumno": "Pérez González, Agustina Emilia",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "VILLARROEL ANDRADE, SANDRY ISABEL",
+    "rutApoderado": "15895579-2",
+    "nombreAlumno": "Perez Villarroel, Carlos Blademir",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "CARRILLO AGUERO, VALERIA MARLENE",
+    "rutApoderado": "15262576-6",
+    "nombreAlumno": "Plaza Carrillo, Norma Estefanía",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "VERGARA BLANCO, CARMEN GLORIA",
+    "rutApoderado": "15575898-8",
+    "nombreAlumno": "Rivera Vergara, Maicol Javier",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "MIRANDA YAEGER, YEANETH ADELAIDA",
+    "rutApoderado": "09287004-9",
+    "nombreAlumno": "Rodríguez Miranda, Miguel Angel",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "GUZMAN LICANDEO, JESSICA ARAMITA",
+    "rutApoderado": "13734343-6",
+    "nombreAlumno": "Rosemberg Guzmán, Rodrigo Alejandro",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "YANQUEL VERA, MIRIAM ISABEL",
+    "rutApoderado": "14328009-8",
+    "nombreAlumno": "Sandoval Yanquel, Amahia Belén",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "TORRES BRAVO, RODRIGO",
+    "rutApoderado": "16343867-4",
+    "nombreAlumno": "Torres Gómez, Alexander Francisco",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "TORRES BRAVO, RODRIGO",
+    "rutApoderado": "16343867-4",
+    "nombreAlumno": "Torres Gómez, Kendall Rodrigo",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Oñate Muñoz, Oriana Marisol",
+    "rutApoderado": "11595625-6",
+    "nombreAlumno": "Treufu Paillamanque, Raquel Soledad",
+    "curso": "4-C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "VILLANUEVA VALDERAS, JULIA",
+    "rutApoderado": "11596400-3",
+    "nombreAlumno": "Villanueva Moreira, Carlos Lautaro",
+    "curso": "4-C",
+    "Modalidad" : "Externo"
+  },
+ 
+
+
+
+
+
+  
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Del Rio Queulo Agustin Ignacio",
+    "curso": "4°B"
+  },
+  {
+    "nombreApoderado": "Karen Villanueva Huaiquimilla",
+    "rutApoderado": "16781462-k",
+    "nombreAlumno": "Astorquiza Villaueva Aaron Benjamín",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "LLANQUILEF MARIGUAL, MARIA ELENA",
+    "rutApoderado": "13589820-1",
+    "nombreAlumno": "Apablaza Llanquilef, David Alfredo",
+    "curso": "3°A",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Macarena Salas Huenchul",
+    "rutApoderado": "16830484-6",
+    "nombreAlumno": "Ramírez Salas Joaquín Andrés",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Zapata Angulo, Luis Alberto",
+    "rutApoderado": "15496361-8",
+    "nombreAlumno": "Zapata Linay, Catalina Constanza",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Danya Guzman Delgado",
+    "rutApoderado": "16782308-4",
+    "nombreAlumno": "Manriquez Guzman Roberto Pablo Alfredo",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Cifuentes Sepúlveda Iván Andrés",
+    "curso": "4°B"
+  },
+  {
+    "nombreApoderado": "Garcia Huentequeo, Sergio Enrique",
+    "rutApoderado": "15296164-2",
+    "nombreAlumno": "Garcia Quiñonez, Tomás Gerardo",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Elena Silva Hernández",
+    "rutApoderado": "13816705-4",
+    "nombreAlumno": "Becerra Silva Juan Antonio",
+    "curso": "2°D",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Macarena Leviante Linay",
+    "rutApoderado": "15896536-4",
+    "nombreAlumno": "Miranda Lebiante Agustín Vicente",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Mayra Duarte Duarte",
+    "rutApoderado": "18871424-2",
+    "nombreAlumno": "Moreira Duarte Denisse Escarleth",
+    "curso": "1°A",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Gallego Castillo Bastián Andrés",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Bernardita Muñoz Toro",
+    "rutApoderado": "13059738-6",
+    "nombreAlumno": "IMILMAQUI MUÑOZ GENESIS VALENTINA",
+    "curso": "1°A",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Daniela Gonzalez Gonzalez",
+    "rutApoderado": "16832091-4",
+    "nombreAlumno": "Acuña Gonzalez Ayelen Monserrat",
+    "curso": "1°B",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Ana Veloso Cona",
+    "rutApoderado": "10478371-6",
+    "nombreAlumno": "Ramírez Veloso Angel Alejandro",
+    "curso": "1°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Barbara Miranda Rupayan",
+    "rutApoderado": "18869858-1",
+    "nombreAlumno": "Barría Miranda Fernanda Danyalet",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Sonia Montiel Baez",
+    "rutApoderado": "15767906-6",
+    "nombreAlumno": "Hott Montiel Gabriel Ignacio",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Jorge Rogel Silva",
+    "rutApoderado": "11595181-5",
+    "nombreAlumno": "Rogel Molina Anahis Alejandra",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Nancy Carcamo Duncan",
+    "rutApoderado": "13406066-2",
+    "nombreAlumno": "Menil Cárcamo Cristofer Ignacio",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Virgina Vargas Bahamondes",
+    "rutApoderado": "18578396-0",
+    "nombreAlumno": "Negrón Vargas Yumalay Sayen",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Casanova Olavarría Marcelo Alexis",
+    "curso": "3°A",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "nan",
+    "rutApoderado": "nan",
+    "nombreAlumno": "Aros Barría Francisca Estrella",
+    "curso": "2°D",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Maritza Vidal Vargas",
+    "rutApoderado": "14097366-1",
+    "nombreAlumno": "Carmona Vidal Michelle Maite",
+    "curso": "2°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Marcela Barria Guerrero",
+    "rutApoderado": "17632767-7",
+    "nombreAlumno": "Andrade Barria Maira Agustina",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Ximena Vidal Vargas",
+    "rutApoderado": "13165156-2",
+    "nombreAlumno": "Hernández Vidal Andy Alexander",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Brenda Pérez Jaramillo",
+    "rutApoderado": "16040114-1",
+    "nombreAlumno": "Sandoval Pérez Guillermo Ignacio",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Ana Lopez Pizarro",
+    "rutApoderado": "18380400-6",
+    "nombreAlumno": "Cárdenas López Dafne Esperanza Arlett",
+    "curso": "2°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Ivonne Hernández Hernández",
+    "rutApoderado": "15496454-1",
+    "nombreAlumno": "Lara Hernández Ayerim Pollet",
+    "curso": "1°C",
+    "Modalidad" : "Externo"
+  },
+  {
+    "nombreApoderado": "Paola Gómez Ríos",
+    "rutApoderado": "18130865-6",
+    "nombreAlumno": "Barría Gómez Martina Belén",
+    "curso": "2°A",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Carol Barria Acuña",
+    "rutApoderado": "16344171-3",
+    "nombreAlumno": "Mancilla Barria Fabian Alexis",
+    "curso": "1°B",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Julia Sandoval Sandoval",
+    "rutApoderado": "13960681-7",
+    "nombreAlumno": "Olate Sandoval Azuzenna Anayss",
+    "curso": "2°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Maria Pradines Rios",
+    "rutApoderado": "14037532-2",
+    "nombreAlumno": "Llefi Pradines Florencia Jacqueline",
+    "curso": "1°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Francisco Vásquez Pailanca",
+    "rutApoderado": "18132400-7",
+    "nombreAlumno": "Váquez Huenteo Francisco David Fernando",
+    "curso": "3°C",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Lisette Kramm Garcia",
+    "rutApoderado": "9815019-2",
+    "nombreAlumno": "Bernal Salgado Paula Millaray",
+    "curso": "3°A",
+    "Modalidad" : "Interno"
+  },
+  {
+    "nombreApoderado": "Rosmery Riquelme Oyarzún",
+    "rutApoderado": "16362418-4",
+    "nombreAlumno": "Guzmán Riquelme Ian Osbin",
+    "curso": "3°B",
+    "Modalidad" : "Externo"
+  }
+]

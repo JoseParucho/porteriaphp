@@ -1,0 +1,35 @@
+# Carpetas innecesarias para la build
+.expo/
+.expo-shared/
+.vscode/
+node_modules/
+
+# Archivos temporales y de logs
+npm-debug.log
+yarn-error.log
+*.log
+
+# Archivos de sistema o IDEs
+.DS_Store
+Thumbs.db
+.idea/
+
+# Archivos de desarrollo que no se usan en producción
+README.md
+eas.json
+*.md
+*.psd
+*.zip
+*.rar
+*.bak
+*.tmp
+*.swp
+
+# Archivos potencialmente grandes o no esenciales
+*.mp4
+*.mov
+*.avi
+*.pdf
+
+# Carpeta scripts (si no necesitas esos scripts en producción)
+scripts/

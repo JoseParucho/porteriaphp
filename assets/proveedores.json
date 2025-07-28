@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "empresa": "Frutería del Lago",
+    "nombre": "Carla Aguilera - Personal San",
+    "dias": "Toda la semana según requerimiento"
+  },
+  {
+    "id": "2",
+    "empresa": "Consorcio Industrial",
+    "nombre": "Carla Aguilera - Personal San",
+    "dias": "Martes"
+  },
+  {
+    "id": "3",
+    "empresa": "Agrosuper",
+    "nombre": "Carla Aguilera - Personal San",
+    "dias": "Miércoles o sábados"
+  },
+  {
+    "id": "4",
+    "empresa": "ASF Logística-Rabie",
+    "nombre": "Carla Aguilera - Personal San",
+    "dias": "No tiene día fijo"
+  },
+  {
+    "id": "5",
+    "empresa": "Prisa",
+    "nombre": "Carla Aguilera - Personal San o Carmen Reyes Administración",
+    "dias": "No tiene día fijo"
+  },
+  {
+    "id": "6",
+    "empresa": "Comercial San Valentín",
+    "nombre": "Carla Aguilera - Personal San",
+    "dias": "Miércoles"
+  },
+  {
+    "id": "7",
+    "empresa": "PF",
+    "nombre": "Carla Aguilera - Personal San",
+    "dias": "Viernes"
+  },
+  {
+    "id": "8",
+    "empresa": "XFood",
+    "nombre": "Carla Aguilera - Personal San",
+    "dias": "No tiene día fijo"
+  },
+  {
+    "id": "9",
+    "empresa": "Minuto Verde",
+    "nombre": "Carla Aguilera - Personal San",
+    "dias": "No tiene día fijo"
+  }
+]
