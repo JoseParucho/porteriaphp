@@ -13,19 +13,23 @@ import {
 } from 'react-native';
 import uuid from 'react-native-uuid';
 import Header from '../../components/header';
-import { loadProveedores, saveRegistroDiario } from '../../storage';
+import { loadProveedores, saveProveedores, saveRegistroDiario } from '../../storage';
 
 export default function ProveedoresScreen() {
   const [busqueda, setBusqueda] = useState('');
   const [proveedores, setProveedores] = useState([]);
   const [modalVisible, setModalVisible] = useState(false);
+  const [modalNuevoVisible, setModalNuevoVisible] = useState(false);
   const [proveedorSeleccionado, setProveedorSeleccionado] = useState(null);
   const [motivo, setMotivo] = useState('');
   const [patente, setPatente] = useState('');
+  const [nuevoEmpresa, setNuevoEmpresa] = useState('');
+  const [nuevoNombre, setNuevoNombre] = useState('');
+  const [nuevoDias, setNuevoDias] = useState('');
 
   const cargarDesdeStorage = async () => {
     const guardados = await loadProveedores();
-    setProveedores(guardados);
+    setProveedores(guardados || []);
   };
 
   useFocusEffect(
@@ -33,6 +37,7 @@ export default function ProveedoresScreen() {
       cargarDesdeStorage();
       setBusqueda('');
       setModalVisible(false);
+      setModalNuevoVisible(false);
       setProveedorSeleccionado(null);
       setMotivo('');
       setPatente('');
@@ -44,38 +49,62 @@ export default function ProveedoresScreen() {
     (p.nombre?.toLowerCase().includes(busqueda.toLowerCase()) || false)
   );
 
- const registrarIngreso = async () => {
-  if (!motivo.trim()) {
-    Alert.alert('Motivo requerido', 'Debes seleccionar un motivo.');
-    return;
-  }
+  const registrarIngreso = async () => {
+    if (!motivo.trim()) {
+      Alert.alert('Motivo requerido', 'Debes seleccionar un motivo.');
+      return;
+    }
 
-  const ahora = new Date();
+    const ahora = new Date();
 
-  const nuevoRegistro = {
-    id: uuid.v4(),
-    tipo: 'proveedor',
-    nombre: `${proveedorSeleccionado.empresa} - ${proveedorSeleccionado.nombre}`,
-    fecha: ahora.toISOString(),
-    entrada: ahora.toLocaleTimeString(),
-    motivo,
-    matricula: patente,
+    const nuevoRegistro = {
+      id: uuid.v4(),
+      tipo: 'proveedor',
+      nombre: `${proveedorSeleccionado.empresa} - ${proveedorSeleccionado.nombre}`,
+      fecha: ahora.toISOString(),
+      entrada: ahora.toLocaleTimeString(),
+      motivo,
+      matricula: patente,
+    };
+
+    try {
+      await saveRegistroDiario(nuevoRegistro);
+      await cargarDesdeStorage();
+      setBusqueda('');
+      setMotivo('');
+      setPatente('');
+      setModalVisible(false);
+      setProveedorSeleccionado(null);
+      Alert.alert('✅ Registro exitoso', 'El ingreso del proveedor fue registrado.');
+    } catch (error) {
+      Alert.alert('Error', 'No se pudo registrar el ingreso.');
+      console.error(error);
+    }
   };
 
-  try {
-    await saveRegistroDiario(nuevoRegistro);
-    await cargarDesdeStorage();
-    setBusqueda('');
-    setMotivo('');
-    setPatente('');
-    setModalVisible(false);
-    setProveedorSeleccionado(null);
-    Alert.alert('✅ Registro exitoso', 'El ingreso del proveedor fue registrado.');
-  } catch (error) {
-    Alert.alert('Error', 'No se pudo registrar el ingreso.');
-    console.error(error);
-  }
-};
+  const agregarNuevoProveedor = async () => {
+    if (!nuevoEmpresa.trim() || !nuevoNombre.trim()) {
+      Alert.alert('Campos requeridos', 'Debes completar empresa y nombre.');
+      return;
+    }
+
+    const nuevo = {
+      empresa: nuevoEmpresa.trim(),
+      nombre: nuevoNombre.trim(),
+      dias: nuevoDias.trim(),
+    };
+
+    const actual = await loadProveedores();
+    const actualizados = [...(actual || []), nuevo];
+    await saveProveedores(actualizados);
+
+    setNuevoEmpresa('');
+    setNuevoNombre('');
+    setNuevoDias('');
+    setModalNuevoVisible(false);
+    setProveedores(actualizados);
+    Alert.alert('✅ Proveedor agregado', 'El proveedor fue guardado correctamente.');
+  };
 
   return (
     <View style={styles.container}>
@@ -87,7 +116,14 @@ export default function ProveedoresScreen() {
         onChangeText={setBusqueda}
         style={styles.searchInput}
       />
-
+          {
+          <TouchableOpacity
+            style={styles.addButton}
+            onPress={() => setModalNuevoVisible(true)}
+          >
+            <Text style={styles.addButtonText}>➕ Agregar nuevo proveedor</Text>
+          </TouchableOpacity>}
+          
       <FlatList
         data={filtrados}
         keyExtractor={(item, index) => index.toString()}
@@ -111,6 +147,7 @@ export default function ProveedoresScreen() {
         }
       />
 
+      {/* Modal para registro de ingreso */}
       <Modal visible={modalVisible} animationType="slide" transparent>
         <View style={styles.modalOverlay}>
           <View style={styles.modalContainer}>
@@ -159,6 +196,51 @@ export default function ProveedoresScreen() {
           </View>
         </View>
       </Modal>
+
+      {/* Modal para agregar nuevo proveedor */}
+      <Modal visible={modalNuevoVisible} animationType="slide" transparent>
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalContainer}>
+            <Text style={styles.modalTitle}>Agregar Nuevo Proveedor</Text>
+
+            <TextInput
+              placeholder="Empresa"
+              value={nuevoEmpresa}
+              onChangeText={setNuevoEmpresa}
+              style={styles.input}
+            />
+            <TextInput
+              placeholder="Nombre del responsable"
+              value={nuevoNombre}
+              onChangeText={setNuevoNombre}
+              style={styles.input}
+            />
+            <TextInput
+              placeholder="Días de visita (opcional)"
+              value={nuevoDias}
+              onChangeText={setNuevoDias}
+              style={styles.input}
+            />
+
+            <View style={styles.modalButtons}>
+              <TouchableOpacity style={styles.confirmButton} onPress={agregarNuevoProveedor}>
+                <Text style={styles.buttonText}>Guardar</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                style={styles.cancelButton}
+                onPress={() => {
+                  setModalNuevoVisible(false);
+                  setNuevoEmpresa('');
+                  setNuevoNombre('');
+                  setNuevoDias('');
+                }}
+              >
+                <Text style={styles.buttonText}>Cancelar</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        </View>
+      </Modal>
     </View>
   );
 }
@@ -167,8 +249,8 @@ const styles = StyleSheet.create({
   container: { flex: 1, padding: 20, backgroundColor: '#A5D6A7' },
   searchInput: {
     backgroundColor: '#fff',
-    padding: 40,
-    fontSize: 28,
+    padding: 20,
+    fontSize: 20,
     borderRadius: 8,
     marginBottom: 10,
     borderWidth: 1,
@@ -176,7 +258,7 @@ const styles = StyleSheet.create({
   },
   input: {
     backgroundColor: '#fff',
-    padding: 30,
+    padding: 15,
     borderRadius: 8,
     marginBottom: 10,
     borderWidth: 1,
@@ -224,14 +306,14 @@ const styles = StyleSheet.create({
   },
   confirmButton: {
     backgroundColor: '#388E3C',
-    padding: 20,
+    padding: 15,
     borderRadius: 8,
     flex: 1,
     marginRight: 5,
   },
   cancelButton: {
     backgroundColor: '#E53935',
-    padding: 20,
+    padding: 15,
     borderRadius: 8,
     flex: 1,
     marginLeft: 5,
@@ -245,6 +327,18 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     marginTop: 20,
     color: '#333',
-    fontSize: 24,
+    fontSize: 20,
+  },
+  addButton: {
+    backgroundColor: '#81C784',
+    padding: 16,
+    borderRadius: 10,
+    marginTop: 10,
+  },
+  addButtonText: {
+    color: '#1B5E20',
+    fontWeight: 'bold',
+    textAlign: 'center',
+    fontSize: 16,
   },
 });

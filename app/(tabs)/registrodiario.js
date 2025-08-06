@@ -93,24 +93,36 @@ export default function RegistroDiarioScreen() {
   const [modoFiltro, setModoFiltro] = useState('dia');
   const [busqueda, setBusqueda] = useState('');
 const marcarSalida = async (id) => {
-  try {
-    const actual = await loadRegistroDiario();
-    const ahora = new Date().toLocaleTimeString();
+  Alert.alert(
+    'Confirmar salida',
+    '¿Estás seguro de que deseas marcar la salida?',
+    [
+      { text: 'Cancelar', style: 'cancel' },
+      {
+        text: 'Sí, confirmar',
+        onPress: async () => {
+          try {
+            const actual = await loadRegistroDiario();
+            const ahora = new Date().toLocaleTimeString();
 
-    const actualizado = actual.map((r) => {
-      if (r.id === id && !r.salida) {
-        return { ...r, salida: ahora };
-      }
-      return r;
-    });
+            const actualizado = actual.map((r) => {
+              if (r.id === id && !r.salida) {
+                return { ...r, salida: ahora };
+              }
+              return r;
+            });
 
-    await setRegistroDiario(actualizado);
-    await cargarRegistros(); // ahora sí existe dentro del scope
-    Alert.alert('✅ Salida registrada', 'La hora de salida fue registrada correctamente.');
-  } catch (e) {
-    Alert.alert('Error', 'No se pudo registrar la salida.');
-    console.error('❌ Error al marcar salida:', e);
-  }
+            await setRegistroDiario(actualizado);
+            await cargarRegistros();
+            Alert.alert('✅ Salida registrada', 'La hora de salida fue registrada correctamente.');
+          } catch (e) {
+            Alert.alert('Error', 'No se pudo registrar la salida.');
+            console.error('❌ Error al marcar salida:', e);
+          }
+        },
+      },
+    ]
+  );
 };
 const marcarReingreso = async (id) => {
   try {
@@ -181,10 +193,13 @@ const cargarRegistrosConFiltro = async (fecha) => {
             return fechaRegistro >= inicioSemana && fechaRegistro <= finSemana;
           })();
 
-    const coincideBusqueda =
-      !busqueda ||
-      r.nombre?.toLowerCase().includes(busqueda.toLowerCase());
+ const normalizar = (texto) =>
+  texto?.toLowerCase().replace(/[^a-z0-9]/gi, '') || '';
 
+const coincideBusqueda =
+  !busqueda ||
+  normalizar(r.nombre).includes(normalizar(busqueda)) ||
+  normalizar(r.matricula).includes(normalizar(busqueda));
     return coincideFecha && coincideBusqueda;
   });
 
@@ -236,7 +251,9 @@ const cargarRegistrosConFiltro = async (fecha) => {
       </View>
       <Text style={styles.nombre}>{item.nombre}</Text>
       <Text style={styles.motivo}>Motivo: {item.motivo || '—'}</Text>
+      {item.rut && <Text style={styles.motivo}>RUT: {item.rut}</Text>}
       {item.matricula && <Text style={styles.motivo}>Patente: {item.matricula}</Text>}
+
       {item.institucion && <Text style={styles.motivo}>Institución: {item.institucion}</Text>}
       {item.cargo && <Text style={styles.motivo}>Cargo: {item.cargo}</Text>}
       {item.entrada && <Text style={styles.motivo}>Entrada: {item.entrada}</Text>}
@@ -334,9 +351,9 @@ const cargarRegistrosConFiltro = async (fecha) => {
         />
       )}
 <View style={{ marginBottom: 12 }}>
-  <Text style={{ marginBottom: 4, fontWeight: 'bold', color: '#2E7D32' }}>🔍 Buscar por nombre:</Text>
+  <Text style={{ marginBottom: 4, fontWeight: 'bold', color: '#2E7D32' }}>🔍 Buscar por nombre o patente:</Text>
   <TextInput
-    placeholder="Escribe un nombre..."
+    placeholder="Escribe un nombre o patente..."
     placeholderTextColor="#A5D6A7"
     style={{
       backgroundColor: '#FFFFFF',

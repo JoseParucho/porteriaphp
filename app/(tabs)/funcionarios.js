@@ -1,5 +1,6 @@
-import { useFocusEffect } from '@react-navigation/native';
-import { useCallback, useState } from 'react';
+import { useFocusEffect, useRoute } from '@react-navigation/native';
+import { useRouter } from 'expo-router';
+import { useCallback, useEffect, useState } from 'react';
 import {
   Alert,
   FlatList,
@@ -18,10 +19,13 @@ import {
   loadRegistroDiario,
   saveFuncionarios,
   saveRegistroDiario,
-  setRegistroDiario
+  setRegistroDiario,
 } from '../../storage';
 
 export default function FuncionariosScreen() {
+  const router = useRouter();
+  const route = useRoute();
+
   const [busqueda, setBusqueda] = useState('');
   const [funcionarios, setFuncionarios] = useState([]);
   const [modalVisible, setModalVisible] = useState(false);
@@ -32,6 +36,9 @@ export default function FuncionariosScreen() {
   const [nuevaPatente, setNuevaPatente] = useState('');
   const [patenteEditable, setPatenteEditable] = useState('');
   const [editarPatenteVisible, setEditarPatenteVisible] = useState(false);
+
+  // Estado para controlar apertura modal desde parámetro QR solo 1 vez
+  const [modalAbiertoDesdeQR, setModalAbiertoDesdeQR] = useState(false);
 
   useFocusEffect(
     useCallback(() => {
@@ -50,14 +57,31 @@ export default function FuncionariosScreen() {
         }
       };
 
+      cargarFuncionarios();
       setBusqueda('');
-      setSeleccionado(null);
-      setModalVisible(false);
       setModalAgregarVisible(false);
       setEditarPatenteVisible(false);
-      cargarFuncionarios();
+      setModalVisible(false);
+      setSeleccionado(null);
+      setModalAbiertoDesdeQR(false);
     }, [])
   );
+
+  // Abrir modal si viene parámetro 'funcionario' y no se ha abierto aún
+  useEffect(() => {
+    if (route.params?.funcionario && !modalAbiertoDesdeQR) {
+      try {
+        const funcObj = JSON.parse(route.params.funcionario);
+        setSeleccionado(funcObj);
+        setPatenteEditable(funcObj.patente || '');
+        setEditarPatenteVisible(false);
+        setModalVisible(true);
+        setModalAbiertoDesdeQR(true);
+      } catch (e) {
+        console.error('Error parsing funcionario param:', e);
+      }
+    }
+  }, [route.params, modalAbiertoDesdeQR]);
 
   const eliminarFuncionario = async () => {
     if (!seleccionado) return;
@@ -82,22 +106,23 @@ export default function FuncionariosScreen() {
               console.error('Error al eliminar funcionario:', e);
               Alert.alert('Error', 'No se pudo eliminar el funcionario.');
             }
-          }
-        }
+          },
+        },
       ]
     );
   };
 
-  const registrar = async (tipo) => {
+  const registrar = async tipo => {
     try {
       const ahora = new Date();
       const fechaActual = ahora.toISOString().split('T')[0];
       const registros = (await loadRegistroDiario()) || [];
 
-      const existente = registros.find(r =>
-        r.tipo === 'funcionario' &&
-        r.nombre === seleccionado.nombre &&
-        r.fecha.startsWith(fechaActual)
+      const existente = registros.find(
+        r =>
+          r.tipo === 'funcionario' &&
+          r.nombre === seleccionado.nombre &&
+          r.fecha.startsWith(fechaActual)
       );
 
       if (tipo === 'entrada') {
@@ -105,6 +130,7 @@ export default function FuncionariosScreen() {
           id: uuid.v4(),
           tipo: 'funcionario',
           nombre: seleccionado.nombre,
+          rut: seleccionado.rut,
           fecha: ahora.toISOString(),
           entrada: ahora.toLocaleTimeString(),
           salida: '',
@@ -144,7 +170,7 @@ export default function FuncionariosScreen() {
     }
   };
 
-  const formatearPatente = (texto) => {
+  const formatearPatente = texto => {
     const limpio = texto.replace(/[^A-Za-z0-9]/g, '').toUpperCase().slice(0, 6);
     const secciones = limpio.match(/.{1,2}/g) || [];
     return secciones.join('-');
@@ -182,9 +208,10 @@ export default function FuncionariosScreen() {
       return;
     }
 
-    const yaExiste = funcionarios.find(f =>
-      f.nombre.trim().toLowerCase() === nuevoNombre.trim().toLowerCase() ||
-      f.rut.trim().toLowerCase() === nuevoRut.trim().toLowerCase()
+    const yaExiste = funcionarios.find(
+      f =>
+        f.nombre.trim().toLowerCase() === nuevoNombre.trim().toLowerCase() ||
+        f.rut.trim().toLowerCase() === nuevoRut.trim().toLowerCase()
     );
 
     if (yaExiste) {
@@ -209,7 +236,7 @@ export default function FuncionariosScreen() {
     Alert.alert('✅ Funcionario agregado', 'El funcionario fue agregado correctamente.');
   };
 
-  const filtrados = funcionarios.filter((f) => {
+  const filtrados = funcionarios.filter(f => {
     const query = busqueda.toLowerCase();
     return (
       f.nombre?.toLowerCase().includes(query) ||
@@ -223,12 +250,21 @@ export default function FuncionariosScreen() {
     <View style={styles.container}>
       <Header title="Funcionarios" />
 
-      <TouchableOpacity
-        style={styles.agregarButton}
-        onPress={() => setModalAgregarVisible(true)}
-      >
-        <Text style={styles.buttonText}>➕ Agregar Funcionario</Text>
-      </TouchableOpacity>
+      <View style={{ flexDirection: 'row', justifyContent: 'space-between', gap: 8 }}>
+        <TouchableOpacity
+          style={[styles.agregarButton, { flex: 1 }]}
+          onPress={() => setModalAgregarVisible(true)}
+        >
+          <Text style={styles.buttonText}>➕ Agregar</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity
+          style={[styles.agregarButton, { flex: 1, backgroundColor: '#00796B' }]}
+          onPress={() => router.push('/QrScanner')}
+        >
+          <Text style={styles.buttonText}>📷 Escanear QR</Text>
+        </TouchableOpacity>
+      </View>
 
       <TextInput
         placeholder="Buscar por nombre, RUT o patente"
@@ -267,22 +303,17 @@ export default function FuncionariosScreen() {
       <Modal visible={modalVisible} transparent animationType="fade">
         <View style={styles.modalOverlay}>
           <View style={styles.modalContainer}>
-            <Text style={styles.modalTitle}>
-              Registrar hora para: {seleccionado?.nombre}
-            </Text>
+            <Text style={styles.modalTitle}>Registrar hora para: {seleccionado?.nombre}</Text>
 
             {editarPatenteVisible ? (
               <>
                 <TextInput
                   placeholder="Editar patente"
                   value={patenteEditable}
-                  onChangeText={(text) => setPatenteEditable(formatearPatente(text))}
+                  onChangeText={text => setPatenteEditable(formatearPatente(text))}
                   style={styles.searchInput}
                 />
-                <TouchableOpacity
-                  style={styles.guardarButton}
-                  onPress={guardarNuevaPatente}
-                >
+                <TouchableOpacity style={styles.guardarButton} onPress={guardarNuevaPatente}>
                   <Text style={styles.buttonText}>Guardar patente</Text>
                 </TouchableOpacity>
               </>
@@ -352,15 +383,12 @@ export default function FuncionariosScreen() {
             <TextInput
               placeholder="Patente del auto (opcional)"
               value={nuevaPatente}
-              onChangeText={(text) => setNuevaPatente(formatearPatente(text))}
+              onChangeText={text => setNuevaPatente(formatearPatente(text))}
               style={styles.searchInput}
             />
 
             <View style={styles.modalButtons}>
-              <TouchableOpacity
-                style={styles.confirmButton}
-                onPress={agregarFuncionario}
-              >
+              <TouchableOpacity style={styles.confirmButton} onPress={agregarFuncionario}>
                 <Text style={styles.buttonText}>Agregar</Text>
               </TouchableOpacity>
               <TouchableOpacity
@@ -381,7 +409,6 @@ export default function FuncionariosScreen() {
     </View>
   );
 }
-
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 20, backgroundColor: '#C8E6C9' },
